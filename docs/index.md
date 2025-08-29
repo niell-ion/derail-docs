@@ -1,4 +1,4 @@
-![Derail Light](assets/derail_stand.jpg)
+ ![Derail Light](assets/derail_stand.jpg)
 
 ## 1. [Preface](derail_preface.md)
 ### 1.1 [Introduction](derail_preface.md#11-introduction)
