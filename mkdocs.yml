@@ -8,13 +8,13 @@ theme:
   features:
     - navigation.footer
 nav:
-  - Table of Contents: derail/derail_toc.md
-    - Preface: derail/derail_preface.md
-    - System Overview: derail/derail_overview.md
-    - Setup: derail/derail_setup.md
-    - Operation: derail/derail_operation.md
-    - Maintenance: derail/derail_maintenance.md
-    - Troubleshooting: derail/derail_troubleshooting.md
+  - Table of Contents: docs/derail_toc.md
+  - Preface: docs/derail_preface.md
+  - System Overview: docs/derail_overview.md
+  - Setup: docs/derail_setup.md
+  - Operation: docs/derail_operation.md
+  - Maintenance: docs/derail_maintenance.md
+  - Troubleshooting: docs/derail_troubleshooting.md
 plugins:
   - to-pdf:
       output_path: document.pdf
