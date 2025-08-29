@@ -1,5 +1,5 @@
 site_name: TXRX Derail Light Manual
-site_url: https://niell-ion.github.io/derail-docs
+site_url: https://niell-ion.github.io/derail-docs/
 theme:
   name: material
   palette: 
