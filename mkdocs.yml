@@ -9,12 +9,12 @@ theme:
     - navigation.footer
 nav:
   - Home: index.md
-  - Preface: docs/derail_preface.md
-  - System Overview: docs/derail_overview.md
-  - Setup: docs/derail_setup.md
-  - Operation: docs/derail_operation.md
-  - Maintenance: docs/derail_maintenance.md
-  - Troubleshooting: docs/derail_troubleshooting.md
+  - Preface: derail_preface.md
+  - System Overview: derail_overview.md
+  - Setup: derail_setup.md
+  - Operation: derail_operation.md
+  - Maintenance: derail_maintenance.md
+  - Troubleshooting: derail_troubleshooting.md
 plugins:
   - to-pdf:
       output_path: document.pdf
