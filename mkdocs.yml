@@ -8,7 +8,7 @@ theme:
   features:
     - navigation.footer
 nav:
-  - Table of Contents: docs/derail_toc.md
+  - Home: index.md
   - Preface: docs/derail_preface.md
   - System Overview: docs/derail_overview.md
   - Setup: docs/derail_setup.md
