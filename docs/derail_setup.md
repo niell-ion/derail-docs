@@ -160,15 +160,15 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ---
 
-### Light
+### Mounting the Light Assembly
 
-**Step 1. Mount the Light Assembly**
+**Step 1: Locate the Light**
 
 ![Derail Solar Panel](assets/derail_light_studs.jpg){: style="height:350px;width:350px"}
 
 * Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.
 
-**Step 2. Secure the Assembly** 
+**Step 2: Secure the Assembly** 
 
 * Install 1/4 in. flat washers and 1/4"-20 hex nuts onto the studs.
 
@@ -176,19 +176,19 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Do not overtighten, as this may damage the light housing.
 
-**Step 3. Route the Wires** 
+**Step 3: Route the Wires** 
 
 * Feed the light assembly wires through the cable glands and into the controller enclosure.
 
 * Ensure the cable glands are tightened to maintain a weatherproof seal.
 
-**Step 4. Verify Jumpers**
+**Step 4: Verify Jumpers**
 
 * Confirm that the 5V jumpers are installed on the controller board.
 
 * These must be in place for the light to operate correctly.
 
-**Step 5. Connect the Light Wires**
+**Step 5: Connect the Light Wires**
 
 ![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:350px;width:350px"}
 
@@ -198,7 +198,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Ensure terminals are secure to prevent loose connections.
 
-**Step 6. Test the Connection**
+**Step 6: Test the Connection**
 
 * Use a multimeter to verify proper voltage at the light terminals.
 
@@ -208,7 +208,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ---
 
-### Solar Panel Installation
+### Mounting the Solar Panel Assembly
 
 !!! warning "Damage to Equipment"
     Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
