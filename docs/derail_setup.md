@@ -8,6 +8,8 @@ Attempting installation without the specified tools may result in improper assem
 
 ---
 
+
+
 ### Tools and Equipment
 
 * Measuring Tape
@@ -36,9 +38,13 @@ Attempting installation without the specified tools may result in improper assem
 
 ---
 
+
+
 ### Clear Zone
 
 The derail sensor requires a level installation surface and a clear zone around the device. Ensure that the following clearance dimensions are present before proceeding.
+
+
 
 **Step 1: Measure Site Clearance**
 
@@ -50,6 +56,8 @@ The derail sensor requires a level installation surface and a clear zone around 
 * Vertical clearance: 27 in.
 * Horizontal clearance: 22 in.
 
+
+
 **Step 2: Check that Site is Level** 
 
 * Use a level to measure the elevation of the ground from front to back.
@@ -57,6 +65,8 @@ The derail sensor requires a level installation surface and a clear zone around 
 * From the edge of the rail to a point 42 in. straight back, the elevation must be level ±6 in.
 
 ---
+
+
 
 ### Solar Panel
 
@@ -66,6 +76,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * The solar panel must be mounted on the stud pattern on the side that receives the most sunlight.
 
+
+
 **Step 1: Measure Tilt Angle**
 
 * Measure the latitude of the installation site.
@@ -74,6 +86,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 !!! example
     Latitude 38.2° → Tilt angle 38.2°
+
+
 
 **Step 2: Seasonal adjustments:**
 
@@ -90,6 +104,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ---
 
+
+
 ### Excavation (Digging)
 
 !!! warning
@@ -104,19 +120,27 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ---
 
+
+
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
 ## 3.2 Assembly
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
+
+
 ### Mounting the Controller Stand
+
+
 
 **Step 1. Position the Controller Stand Bracket**
 
 * Place the controller stand bracket on the center of the selected tie.
 
 * Slide the bracket toward the rail as far as possible while keeping it centered.
+
+
 
 **Step 2. Secure the Bracket to the Tie**
 
@@ -132,6 +156,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
   * Square (perpendicular) to the rail
 
+
+
 **Step 3. Install Leveling Feet**
 
 * Locate the pre-drilled holes at the bottom of the bracket.
@@ -139,6 +165,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 * Thread each leveling foot into its hole and tighten by hand.
 
 * Once threaded, use a wrench to snug each foot.
+
+
 
 **Step 4. Pre-Load the Leveling Feet**
 
@@ -150,6 +178,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Verify that the stand does not rock or shift when pushed.
 
+
+
 **Step 5. Final Check**
 
 * Confirm all bolts are tightened.
@@ -160,6 +190,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ---
 
+
+
 ### Mounting the Light Assembly
 
 **Step 1: Locate the Light**
@@ -167,6 +199,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 ![Derail Solar Panel](assets/derail_light_studs.jpg){: style="height:350px;width:350px"}
 
 * Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.
+
+
 
 **Step 2: Secure the Assembly** 
 
@@ -176,17 +210,23 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Do not overtighten, as this may damage the light housing.
 
+
+
 **Step 3: Route the Wires** 
 
 * Feed the light assembly wires through the cable glands and into the controller enclosure.
 
 * Ensure the cable glands are tightened to maintain a weatherproof seal.
 
+
+
 **Step 4: Verify Jumpers**
 
 * Confirm that the 5V jumpers are installed on the controller board.
 
 * These must be in place for the light to operate correctly.
+
+
 
 **Step 5: Connect the Light Wires**
 
@@ -198,6 +238,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Ensure terminals are secure to prevent loose connections.
 
+
+
 **Step 6: Test the Connection**
 
 * Use a multimeter to verify proper voltage at the light terminals.
@@ -208,12 +250,16 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ---
 
+
+
 ### Mounting the Solar Panel Assembly
 
 !!! warning "Damage to Equipment"
     Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
 
 ![Derail Solar Panel](assets/solar_center.jpg){: style="height:350px;width:350px"}
+
+
 
 **Step 1. Attach Solar Panel to Spider Bracket**
 
@@ -225,6 +271,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ![Derail Solar Panel](assets/derail_studs.jpg){: style="height:350px;width:350px"}
 
+
+
 **Step 2. Mount Spider Bracket to Mast**
   
 * Position the spider bracket (with solar panel attached) onto the mast.
@@ -232,6 +280,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 * Bolt the bracket securely in place.
 
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
+
+
 
 **Step 3. Mount Solar Panel Assembly to Device**
 
@@ -245,17 +295,23 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ![Derail Solar Panel Wire](assets/derail_charger_wire.jpg){: style="height:350px;width:350px"}
 
+
+
 **Step 4. Adjust Solar Panel Tilt**
 
 * Loosen the tilt bolts, set the solar panel to the required tilt angle, and re-tighten the bolts.
 
 * Refer to the site preparation section for recommended tilt angle (latitude ± seasonal adjustment).
 
+
+
 **Step 5. Route Solar Panel Wires**
 
 * Feed the solar panel wires through the cable glands and into the controller enclosure.
 
 * Ensure cable glands are tightened to maintain a weatherproof seal.
+
+
 
 **Step 6. Connect Solar Panel Wires**
 
@@ -266,6 +322,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Tighten terminal screws securely.
 
+
+
 **Step 7. Test the Connection**
 
 * Use a multimeter to confirm correct polarity and voltage at the solar panel terminals.
@@ -273,6 +331,8 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 * Verify that power is being delivered to the controller.
 
 ---
+
+
 
 ## 3.3 Sensor Installation
 
@@ -283,24 +343,36 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
-**Steps:**
-
 **Step 1:**
+
 * Locate the sensor mounting bracket on the side of the derail.
 
+
+
 **Step 2:**
+
 * Move the derail arm from side to side, through its full range of motion. Confirm the sensor and bracket are clear of all moving parts.
 
+
+
 **Step 3:**
+
 * Verify that the sensor will remain clear of train wheels in both engaged and disengaged positions.
 
+
+
 **Step 4:**
+
 * Grind paint off the mating face of the sensor bracket to ensure a proper weld.
 
-**Step 5.**
+
+**Step 5:**
+
 * Mount the sensor to the bracket using the provided screws. Tighten securely.
 
-**Step 6.**
+
+**Step 6:**
+
 * Confirm that:
 
   * The sensor is clear of moving parts and wheels.
@@ -309,10 +381,14 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
   * The reader face is parallel to the derail’s metal plate.
 
-**Step 7.**
+
+**Step 7:**
+
 * Weld the sensor and bracket assembly to the derail as shown in the installation drawing.
 
 ---
+
+
 
 ### For Swing-Style Derail
 
@@ -325,15 +401,19 @@ Locate the sensor bracket on the provided stand.
 **Step 2:** 
 Bolt the bracket securely to the stand using the supplied fasteners.
 
-**Step 3.** 
+**Step 3:** 
 Verify alignment of the bracket before proceeding.
 
 ---
+
+
 
 ### Liquid-Tight tubing
 
 !!! Note 
     Liquid tight tubing provided by Marmon
+
+
 
 **Step 1: Measure and Cut Tubing**
 
@@ -345,11 +425,15 @@ Verify alignment of the bracket before proceeding.
 
 ![Sensor Bracket](assets/tubing_nut.jpg){: style="height:350px;width:350px"}
 
+
+
 **Step 2: Prepare Cable for Installation**
 
 * Inspect the sensor cable for nicks, cuts, or damage before running it.
 
 * If pulling long runs, attach a pull string or fish tape to the cable using electrical tape. Wrap smoothly to avoid snags.
+
+
 
 **Step 3: Insert Cable into Tubing**
 
@@ -359,6 +443,8 @@ Verify alignment of the bracket before proceeding.
 
 * Avoid sharp bends — the tubing bend radius must not be tighter than 6 in.
 
+
+
 **Step 4: Route Tubing to Controller Enclosure**
 
 * Position tubing along a straight, supported path wherever possible.
@@ -366,6 +452,8 @@ Verify alignment of the bracket before proceeding.
 * Ensure tubing will not interfere with derail movement or be crushed by ballast.
 
 * If crossing under rail or ties, secure tubing to prevent chafing.
+
+
 
 **Step 5: Install Cable Gland at Controller Enclosure**
 
@@ -375,6 +463,8 @@ Verify alignment of the bracket before proceeding.
 
 * Ensure the cable jacket, not the conductor insulation, is gripped by the gland seal.
 
+
+
 **Step 6: Tighten the Cable Gland**
 
 * Hand-tighten the gland cap, then snug with a wrench until resistance is firm.
@@ -382,6 +472,8 @@ Verify alignment of the bracket before proceeding.
 * Do not overtighten; overtightening may crack the gland or cut into the cable jacket.
 
 * Check that the gland provides a secure, weatherproof seal.
+
+
 
 **Step 7: Terminate Cable at Controller**
 
@@ -391,6 +483,8 @@ Verify alignment of the bracket before proceeding.
 
 * Connect the wires to the IN 0 terminals on the controller board, observing polarity.
 
+
+
 **Step 8: Verify Cable Protection**
 
 * Straighten the tubing path and confirm it is free of kinks.
@@ -399,15 +493,19 @@ Verify alignment of the bracket before proceeding.
 
 * Cover tubing with ballast to shield from UV, impact, and debris.
 
+
+
 **Step 9: Final Test**
 
 * Use a multimeter to verify continuity and voltage.
 
 * Confirm the sensor operates correctly before completing site backfill.
 
-## 3.4 Turning on the System
-
 ---
+
+
+
+## 3.4 Turning on the System
 
 ![Derail Charger Connected](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
@@ -417,6 +515,8 @@ Verify alignment of the bracket before proceeding.
     Reversing battery polarity (red to – or black to +) can permanently damage the controller and board and is not covered by warranty.
     Use a multimeter to pre-check the battery’s voltage and polarity at the terminals before attaching any leads.
 
+
+
 **Step 2: Confirm Readiness** 
 
 * Identify terminals and leads:
@@ -424,6 +524,8 @@ Verify alignment of the bracket before proceeding.
   * Battery positive (+) terminal.
 
   * System leads: red = positive (+)
+ 
+
 
 **Step 3: Connect the Positive Lead**
 
@@ -435,6 +537,8 @@ Verify alignment of the bracket before proceeding.
 
 * Confirm that no bare wire is exposed.
 
+
+
 **Step 4: Verify Power Indicators**
 
 * Look for the indicator lights on the charge controller and on the main board to confirm the sensor is receiving power.
@@ -442,6 +546,8 @@ Verify alignment of the bracket before proceeding.
 * If indicators do not light:
 
   * Recheck polarity and terminal tightness
+
+
 
 **Step 5: Support**
 
