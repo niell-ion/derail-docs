@@ -18,35 +18,35 @@
 
 ## 3. [Setup](derail_setup.md)
 
-### 3.1 [Derail Setup](derail_setup.md#3.1-trailer-setup)
+### 3.1 [Derail Setup](derail_setup.md#31-trailer-setup)
 * Positioning the sensor
 * Attaching the sensor
-### 3.2 [Controller Setup](derail_setup.md#3.2-arm-setup)
+### 3.2 [Controller Setup](derail_setup.md#32-arm-setup)
 * Mounting the controller
 * Connecting the sensor
 * Connecting the solar panel
 * Connecting the light
-### 3.3 [Solar Panel Setup](derail_setup.md#3.3-solar-panel)
+### 3.3 [Solar Panel Setup](derail_setup.md#33-solar-panel)
 * Positioning the solar panel
 * Locking the solar panel
-### 3.4 [Turning on the System](derail_setup.md#3.4-turning-on-the-system)
+### 3.4 [Turning on the System](derail_setup.md#34-turning-on-the-system)
 
 ---
 
 ## 4. [Operation](derail_operation.md)
 
-### 4.1 [Derail Operation](derail_operation.md#4.1-derail-operation)
+### 4.1 [Derail Operation](derail_operation.md#41-derail-operation)
 
-### 4.2 [Status Light](derail_operation.md#4.2-status-light)
+### 4.2 [Status Light](derail_operation.md#42-status-light)
 * Light states
 
 ---
 
 ## 5. [Maintenance](derail_maintenance.md)
 
-### 5.1 [Routine Maintenance](derail_maintenance.md#5.1-routine-maintenance)
+### 5.1 [Routine Maintenance](derail_maintenance.md#51-routine-maintenance)
 
-### 5.2 [Occasional Maintenance](derail_maaintenance.md#5.2-occasional-maintenance)
+### 5.2 [Occasional Maintenance](derail_maaintenance.md#52-occasional-maintenance)
 
 ---
 	
