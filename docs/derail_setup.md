@@ -1,7 +1,8 @@
 ## **3.1 Preparation**
 
 !!! warning "Disclaimer"
-    Always ensure you have the correct tools and training before beginning installation.  
+    Always ensure you have the correct tools and training before beginning installation. 
+
 Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.
 
 Before beginning installation, confirm that all required tools and components are available.  
@@ -64,9 +65,8 @@ Ensure that the following clearance dimensions are present before proceeding.
 
 **Step 2: Check that Site is Level** 
 
-Use a level to measure the elevation of the ground from front to back.
-
-* From the edge of the rail to a point 42 in. straight back, the elevation must be level ±6 in.
+Use a level to measure the elevation of the ground from front to back.  
+From the edge of the rail to a point 42 in. straight back, the elevation must be level **±6 in.**
 
 ---
 
@@ -76,9 +76,11 @@ Use a level to measure the elevation of the ground from front to back.
 
 For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.
 
-* Two mounting points with **1/4"-20** threaded studs are provided for the solar panel and light.
+* Observe the site and ensure that the solar panel will receive sun once installed.
 
-* The solar panel must be mounted on the stud pattern on the side that receives the most sunlight.
+* Two locations witn **1/4"-20** threaded stud patterns are provided for mounting the solar panel and light assemblies.
+
+* The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.
 
 ---  
 
@@ -118,10 +120,10 @@ For proper operation, the solar panel must receive direct sunlight from **10:00 
 
 !!! warning
     Ensure to remove additional ballast around the tie to allow access during installation
+    
+Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.
 
-* Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.
-
-* Clear space for:
+Clear space for:
 
   * Liquid-tight tubing path from derail to controller
   * Controller stand
