@@ -21,12 +21,12 @@
 ### 3.1 [Derail Setup](derail_setup.md#31-trailer-setup)
 * Positioning the sensor
 * Attaching the sensor
-### 3.2 [Controller Setup](derail_setup.md#32-arm-setup)
+### 3.2 [Controller Setup](derail_setup.md#32-assembly)
 * Mounting the controller
 * Connecting the sensor
 * Connecting the solar panel
 * Connecting the light
-### 3.3 [Solar Panel Setup](derail_setup.md#33-solar-panel)
+### 3.3 [Solar Panel Setup](derail_setup.md#33-sensor-installation)
 * Positioning the solar panel
 * Locking the solar panel
 ### 3.4 [Turning on the System](derail_setup.md#34-turning-on-the-system)
