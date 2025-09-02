@@ -551,12 +551,19 @@ Verify alignment of the bracket before proceeding.
 
 **Step 3: Connect the Positive Lead**
 
-* Locate the red wire with spade terminal.
+!!! warning "Loose connection hazard"
+    A wire that is not fully secured can cause overheating, arcing, or system failure.
 
-* Align the spade terminal with the positive (+) battery post.
+* Insert the spade connector fully into the screw terminal.  
+   - Ensure that no bare conductor is exposed outside the terminal housing.  
+   - The insulation should come right up to the terminal opening.
 
-* Slide the spade connector fully onto the post tab until it is seated.
+* Using the **correct screwdriver** (Tools and Equipment)[#tools-and-equipment], turn the screw clockwise until the wire is firmly clamped in place.  
+   - The wire should not shift or pull out with gentle tugging.  
+   - Do **not** overtighten—this may damage the screw or deform the wire.
 
+* Verify by gently pulling on the wire. If it moves, retighten the screw.
+   
 * Confirm that no bare wire is exposed.
 
 ---  
