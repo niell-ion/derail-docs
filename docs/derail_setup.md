@@ -56,17 +56,20 @@ Ensure that the following clearance dimensions are present before proceeding.
 !!! warning "Clearance Warning"
     Installation at sites not meeting the clearance requirements listed below is prohibited.
 
-!!! note "Minimum Clearance Dimensions"
-    * Distance to rail: 42 in.
-* Vertical clearance: 27 in.
-* Horizontal clearance: 22 in.
+* Check that Site Meets Minimum Clearance Dimensions:
+
+* Distance to rail: **42 in.**  
+
+* Vertical clearance: **27 in.**  
+
+* Horizontal clearance: **22 in.**  
 
 ---  
 
 **Step 2: Check that Site is Level** 
 
 Use a level to measure the elevation of the ground from front to back.  
-From the edge of the rail to a point 42 in. straight back, the elevation must be level **±6 in.**
+From the edge of the rail to a point **42 in.** straight back, the elevation must be level **±6 in.**
 
 ---
 
