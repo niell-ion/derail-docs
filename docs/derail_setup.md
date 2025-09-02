@@ -261,7 +261,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-**Step 1. Attach Solar Panel to Spider Bracket**
+**Step 1: Attach Solar Panel to Spider Bracket**
 
 * Center the solar panel on the spider bracket.
 
@@ -273,7 +273,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-**Step 2. Mount Spider Bracket to Mast**
+**Step 2: Mount Spider Bracket to Mast**
   
 * Position the spider bracket (with solar panel attached) onto the mast.
 
@@ -283,7 +283,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-**Step 3. Mount Solar Panel Assembly to Device**
+**Step 3: Mount Solar Panel Assembly to Device**
 
 * Place the slotted base of the solar panel assembly onto the threaded stud pattern located on the side of the device that receives the most direct sunlight.
 
@@ -297,7 +297,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-**Step 4. Adjust Solar Panel Tilt**
+**Step 4: Adjust Solar Panel Tilt**
 
 * Loosen the tilt bolts, set the solar panel to the required tilt angle, and re-tighten the bolts.
 
@@ -305,7 +305,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-**Step 5. Route Solar Panel Wires**
+**Step 5: Route Solar Panel Wires**
 
 * Feed the solar panel wires through the cable glands and into the controller enclosure.
 
@@ -313,7 +313,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-**Step 6. Connect Solar Panel Wires**
+**Step 6: Connect Solar Panel Wires**
 
 !!! warning
     Only connect the solar panel wires. Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
@@ -324,7 +324,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-**Step 7. Test the Connection**
+**Step 7: Test the Connection**
 
 * Use a multimeter to confirm correct polarity and voltage at the solar panel terminals.
 
