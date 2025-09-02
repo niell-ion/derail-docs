@@ -130,7 +130,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-## 3.2 Assembly
+## **3.2 Assembly**
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
@@ -525,7 +525,7 @@ Verify alignment of the bracket before proceeding.
 
 
 
-## 3.4 Turning on the System
+## **3.4 Turning on the System**
 
 ![Derail Charger Connected](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
