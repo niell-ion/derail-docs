@@ -4,7 +4,8 @@
     Always ensure you have the correct tools and training before beginning installation.  
 Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.
 
-* Before beginning installation, confirm that all required tools and components are available. Site preparation must be completed before installing the derail system.
+Before beginning installation, confirm that all required tools and components are available.  
+Site preparation must be completed before installing the derail system.  
 
 ---
 
@@ -44,7 +45,8 @@ Attempting installation without the specified tools may result in improper assem
 
 ### Clear Zone
 
-The derail sensor requires a level installation surface and a clear zone around the device. Ensure that the following clearance dimensions are present before proceeding.
+The derail sensor requires a level installation surface and a clear zone around the device.  
+Ensure that the following clearance dimensions are present before proceeding.
 
 
 
@@ -62,7 +64,7 @@ The derail sensor requires a level installation surface and a clear zone around 
 
 **Step 2: Check that Site is Level** 
 
-* Use a level to measure the elevation of the ground from front to back.
+Use a level to measure the elevation of the ground from front to back.
 
 * From the edge of the rail to a point 42 in. straight back, the elevation must be level ±6 in.
 
