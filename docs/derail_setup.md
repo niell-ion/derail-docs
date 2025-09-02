@@ -60,7 +60,7 @@ Ensure that the following clearance dimensions are present before proceeding.
 * Vertical clearance: 27 in.
 * Horizontal clearance: 22 in.
 
-
+---  
 
 **Step 2: Check that Site is Level** 
 
