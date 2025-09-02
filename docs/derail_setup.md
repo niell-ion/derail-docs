@@ -56,7 +56,7 @@ Ensure that the following clearance dimensions are present before proceeding.
 !!! warning "Clearance Warning"
     Installation at sites not meeting the clearance requirements listed below is prohibited.
 
-* Check that Site Meets Minimum Clearance Dimensions:
+Use a measuring tape to ensure that the site meets the following minimum dimensions:
 
 * Distance to rail: **42 in.**  
 
@@ -77,7 +77,8 @@ From the edge of the rail to a point **42 in.** straight back, the elevation mus
 
 ### **Solar Panel**
 
-For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.
+For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
+For installations in the northern hemisphere, the solar panel should face **south** for optimal efficiency.
 
 * Observe the site and ensure that the solar panel will receive sun once installed.
 
@@ -89,7 +90,9 @@ For proper operation, the solar panel must receive direct sunlight from **10:00 
 
 **Step 1: Measure Tilt Angle**
 
-* Use a maps or GPS app to measure the latitude of the installation site.
+The optimal tilt angle for solar panel efficiency depends on the latitude of the installation site.
+
+* Use a maps or GPS app to measure the site latitude.
 
 * Set the tilt angle equal to the latitude.
 
