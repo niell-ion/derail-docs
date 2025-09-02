@@ -74,9 +74,9 @@ Use a level to measure the elevation of the ground from front to back.
 
 ### **Solar Panel**
 
-For proper operation, the solar panel must receive direct sunlight from 10:00 AM to 3:00 PM without obstruction from structures, railcars, or vegetation.
+For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.
 
-* Two mounting points with 1/4"-20 threaded studs are provided for the solar panel and light.
+* Two mounting points with **1/4"-20** threaded studs are provided for the solar panel and light.
 
 * The solar panel must be mounted on the stud pattern on the side that receives the most sunlight.
 
@@ -150,7 +150,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **Step 2. Secure the Bracket to the Tie**
 
-* Using a power drill or impact driver, install a minimum of four (4) 0.5 in. x 3 in. galvanized lag bolts with washers.
+* Using a power drill or impact driver, install a minimum of four (4) **0.5 in. x 3 in.** galvanized lag bolts with washers.
 
 * Ensure bolts penetrate fully into solid wood.
 
@@ -212,7 +212,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **Step 2: Secure the Assembly** 
 
-* Install 1/4 in. flat washers and 1/4"-20 hex nuts onto the studs.
+* Install **1/4 in.** flat washers and **1/4"-20** hex nuts onto the studs.
 
 * Tighten the nuts evenly until the light is firmly secured.
 
@@ -230,7 +230,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **Step 4: Verify Jumpers**
 
-* Confirm that the 5V jumpers are installed on the controller board.
+* Confirm that the **5V** jumpers are installed on the controller board.
 
 * These must be in place for the light to operate correctly.
 
@@ -240,7 +240,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:350px;width:350px"}
 
-* Insert the light wires into the OUT 0 terminals on the controller board, following the wiring diagram.
+* Insert the light wires into the **OUT 0** terminals on the controller board, following the wiring diagram.
 
 * Ensure proper polarity (match positive and negative leads).
 
@@ -273,7 +273,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Center the solar panel on the spider bracket.
 
-* Fasten using the provided M6 cage nuts, flat washers, and machine screws.
+* Fasten using the provided **M6** cage nuts, flat washers, and machine screws.
 
 * Tighten screws securely, but do not overtighten.
 
@@ -299,7 +299,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Verify that the device light does not cast a shadow on the solar panel.
 
-* Install 1/4 in. flat washers and 1/4"-20 hex nuts onto the base studs and tighten evenly.
+* Install **1/4 in.** flat washers and **1/4"-20** hex nuts onto the base studs and tighten evenly.
 
 ![Derail Solar Panel Wire](assets/derail_charger_wire.jpg){: style="height:350px;width:350px"}
 
@@ -410,19 +410,23 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 **Step 1:**  
 
-Locate the sensor bracket on the provided stand.
+* Locate the sensor bracket on the provided stand.
 
 ---  
 
 **Step 2:**  
 
-Bolt the bracket securely to the stand using the supplied fasteners.
+* Verify that the sensor block is secured to the sensor bracket and that the liquid-tight tubing nut is fully tightened to the sensor.
+
+* Add the **#10-32 x 3/4"** screws, **#10** flat washers, and **#10-32** nuts.
+
+* Tighten hardware until the sensor doesn't move
 
 ---  
 
 **Step 3:**  
 
-Verify alignment of the bracket before proceeding.
+* Verify alignment of the bracket before proceeding.
 
 ---
 
