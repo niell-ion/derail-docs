@@ -110,7 +110,7 @@ For proper operation, the solar panel must receive direct sunlight from **10:00 
 
 
 
-### Excavation (Digging)
+### **Excavation**
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
@@ -136,7 +136,7 @@ For proper operation, the solar panel must receive direct sunlight from **10:00 
 
 ---  
 
-### Mounting the Controller Stand
+### **Mounting the Controller Stand**
 
 ---  
 
