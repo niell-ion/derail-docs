@@ -112,6 +112,10 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 ### Excavation (Digging)
 
+![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
+
+
+
 !!! warning
     Ensure to remove additional ballast around the tie to allow access during installation
 
@@ -125,8 +129,6 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 ---
 
 
-
-![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
 ## 3.2 Assembly
 
@@ -144,7 +146,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Slide the bracket toward the rail as far as possible while keeping it centered.
 
-
+---  
 
 **Step 2. Secure the Bracket to the Tie**
 
@@ -160,7 +162,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
   * Square (perpendicular) to the rail
 
-
+---  
 
 **Step 3. Install Leveling Feet**
 
@@ -170,7 +172,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Once threaded, use a wrench to snug each foot.
 
-
+---  
 
 **Step 4. Pre-Load the Leveling Feet**
 
@@ -182,7 +184,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 * Verify that the stand does not rock or shift when pushed.
 
-
+---  
 
 **Step 5. Final Check**
 
