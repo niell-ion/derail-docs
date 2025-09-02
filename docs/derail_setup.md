@@ -401,24 +401,27 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-### For Swing-Style Derail
+### **For Swing-Style Derail**
 
 !!! Note
     Stand for swing-style derail sensor provided by Marmon
 
 ---  
 
-**Step 1:** 
+**Step 1:**  
+
 Locate the sensor bracket on the provided stand.
 
 ---  
 
-**Step 2:** 
+**Step 2:**  
+
 Bolt the bracket securely to the stand using the supplied fasteners.
 
 ---  
 
-**Step 3:** 
+**Step 3:**  
+
 Verify alignment of the bracket before proceeding.
 
 ---
@@ -432,8 +435,7 @@ Verify alignment of the bracket before proceeding.
 
 ---  
 
-**Step 1:**  
-**Measure and Cut Tubing**
+**Step 1: Measure and Cut Tubing**
 
 * Measure the required length of tubing from the sensor to the controller enclosure.
 
