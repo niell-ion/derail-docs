@@ -84,27 +84,27 @@ For proper operation, the solar panel must receive direct sunlight from **10:00 
 
 **Step 1: Measure Tilt Angle**
 
-* Measure the latitude of the installation site.
+* Use a maps or GPS app to measure the latitude of the installation site.
 
 * Set the tilt angle equal to the latitude.
 
 !!! example
-    Latitude 38.2° → Tilt angle 38.2°
+    Latitude 38.2° → Tilt angle **38.2°**
 
 ---  
 
 **Step 2: Seasonal adjustments:**
 
-* Winter: Latitude + 15°
+* Winter: **Latitude + 15°**  
 
-* Summer: Latitude – 15°
+* Summer: **Latitude – 15°**  
 
-* Spring/Fall: Latitude only
+* Spring/Fall: **Latitude only**  
 
 !!! example
-    Spring/Fall tilt angle = 38.2°  
-    Winter tilt angle = 38.2 + 15 = 53.2°  
-    Summer tilt angle = 38.2 – 15 = 23.2°  
+    Spring/Fall tilt angle = **38.2°**    
+    Winter tilt angle = 38.2 + 15 = **53.2°**  
+    Summer tilt angle = 38.2 – 15 = **23.2°**  
 
 ---
 
