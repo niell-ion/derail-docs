@@ -114,14 +114,14 @@ For proper operation, the solar panel must receive direct sunlight from **10:00 
 
 ### **Excavation**
 
-![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
-
-
-
 !!! warning
     Ensure to remove additional ballast around the tie to allow access during installation
-    
-Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.
+
+
+
+![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
+
+Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.  
 
 Clear space for:
 
