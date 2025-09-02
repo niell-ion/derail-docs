@@ -13,7 +13,7 @@ Site preparation must be completed before installing the derail system.
 
 
 
-### Tools and Equipment
+### **Tools and Equipment**
 
 * Measuring Tape
 
@@ -43,7 +43,7 @@ Site preparation must be completed before installing the derail system.
 
 
 
-### Clear Zone
+### **Clear Zone**
 
 The derail sensor requires a level installation surface and a clear zone around the device.  
 Ensure that the following clearance dimensions are present before proceeding.
@@ -72,7 +72,7 @@ Use a level to measure the elevation of the ground from front to back.
 
 
 
-### Solar Panel
+### **Solar Panel**
 
 For proper operation, the solar panel must receive direct sunlight from 10:00 AM to 3:00 PM without obstruction from structures, railcars, or vegetation.
 
@@ -198,7 +198,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-### Mounting the Light Assembly
+### **Mounting the Light Assembly**
 
 ---  
 
@@ -260,7 +260,7 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-### Mounting the Solar Panel Assembly
+### **Mounting the Solar Panel Assembly**
 
 !!! warning "Damage to Equipment"
     Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
@@ -342,9 +342,9 @@ For proper operation, the solar panel must receive direct sunlight from 10:00 AM
 
 
 
-## 3.3 Sensor Installation
+## **3.3 Sensor Installation**
 
-### For Flip-Style Derail
+### **For Flip-Style Derail**
 
 !!! warning "Damage to Equipment"
     Verify sensor clearance before welding. Improper placement may cause interference with moving parts or rolling stock.
@@ -425,14 +425,15 @@ Verify alignment of the bracket before proceeding.
 
 
 
-### Liquid-Tight tubing
+### **Liquid-Tight tubing**
 
 !!! Note 
     Liquid tight tubing provided by Marmon
 
 ---  
 
-**Step 1: Measure and Cut Tubing**
+**Step 1:**  
+**Measure and Cut Tubing**
 
 * Measure the required length of tubing from the sensor to the controller enclosure.
 
