@@ -8,6 +8,8 @@ Attempting installation without the specified tools may result in improper assem
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 
 
 ### Tools and Equipment
