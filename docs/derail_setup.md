@@ -1,4 +1,4 @@
-## 3.1 Preparation
+## **3.1 Preparation**
 
 !!! warning "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation.  
