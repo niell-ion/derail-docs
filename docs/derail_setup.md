@@ -1,4 +1,4 @@
-## **Preparation**
+## Preparation
 
 !!! warning "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation. 
@@ -14,7 +14,7 @@ Site preparation must be completed before installing the derail system.
 
 
 
-### **Tools and Equipment**
+### Tools and Equipment
 
 * Measuring Tape
 
@@ -44,7 +44,7 @@ Site preparation must be completed before installing the derail system.
 
 
 
-### **Clear Zone**
+### Clear Zone
 
 The derail sensor requires a level installation surface and a clear zone around the device.  
 Ensure that the following clearance dimensions are present before proceeding.
@@ -75,7 +75,7 @@ From the edge of the rail to a point **42 in.** straight back, the elevation mus
 
 
 
-### **Solar Panel**
+### Solar Panel
 
 For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
 For installations in the USA, the solar panel should face **south** for optimal efficiency.
@@ -206,7 +206,7 @@ Clear space for:
 
 
 
-### **Mounting the Light Assembly**
+### Mounting the Light Assembly
 
 ---  
 
@@ -268,7 +268,7 @@ Clear space for:
 
 
 
-### **Mounting the Solar Panel Assembly**
+### Mounting the Solar Panel Assembly
 
 !!! warning "Damage to Equipment"
     Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
@@ -352,7 +352,7 @@ Clear space for:
 
 
 
-## **3.3 Sensor Installation**
+## 3.3 Sensor Installation
 
 ### **For Flip-Style Derail**
 
@@ -407,7 +407,7 @@ Clear space for:
 
 
 
-### **For Swing-Style Derail**
+### For Swing-Style Derail
 
 !!! Note
     Stand for swing-style derail sensor provided by Marmon
@@ -438,7 +438,7 @@ Clear space for:
 
 
 
-### **Liquid-Tight tubing**
+### Liquid-Tight tubing
 
 !!! Note 
     Liquid tight tubing provided by Marmon
@@ -535,7 +535,7 @@ Clear space for:
 
 
 
-## **Turning on the System**
+## Turning on the System
 
 ![Derail Charger Connected](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
