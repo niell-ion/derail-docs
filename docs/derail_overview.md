@@ -1,4 +1,4 @@
-## 2.1 Sensor Assembly
+## Sensor Assembly
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
@@ -19,14 +19,14 @@
 
 ---
 
-## 2.2 Controller
+## Controller
 
 ![Controller](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
 ### Controller Stand
 * Controller Enclosure
 
-## 2.3 Solar panel
+## Solar panel
 
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
 
@@ -34,7 +34,7 @@
 
 ### Solar Panel Spider Bracket
 
-## 2.4 Indicator light
+## Indicator light
 * A blinking LED indicator light communicates whether the derail is open or closed.
 
 ![Derail Solar Panel](assets/derail_stand.jpg){: style="height:350px;width:350px"}
