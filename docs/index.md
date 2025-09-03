@@ -113,3 +113,5 @@ If there is any uncertainty regarding safe operation, contact the manufacturer o
 * Level (Bubble or Digital)
 
 * Personal Protective Equipment (PPE): As required
+
+---
