@@ -334,6 +334,8 @@ Clear space for:
 !!! warning
     Only connect the solar panel wires. Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
 
+![Derail Sensor](assets/derail_terminals.jpg){: style="height:350px;width:350px"}
+
 * Connect the solar panel positive (+) and negative (–) leads to the Solar Panel + and Solar Panel – terminals on the controller board, as shown in the wiring diagram.
 
 * Tighten terminal screws securely.
@@ -563,14 +565,14 @@ Clear space for:
 
 **Step 3: Connect the Positive Lead**
 
-!!! warning "Loose connection hazard"
+!!! warning "Loose Connection Hazard"
     A wire that is not fully secured can cause overheating, arcing, or system failure.
 
 * Insert the spade connector fully into the screw terminal.  
    - Ensure that no bare conductor is exposed outside the terminal housing.  
    - The insulation should come right up to the terminal opening.
 
-* Using the **correct screwdriver** (Tools and Equipment)[#tools-and-equipment], turn the screw clockwise until the wire is firmly clamped in place.  
+* Turn the screw clockwise until the wire is firmly clamped in place.  
    - The wire should not shift or pull out with gentle tugging.  
    - Do **not** overtighten—this may damage the screw or deform the wire.
 
