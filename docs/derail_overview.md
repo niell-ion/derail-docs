@@ -23,6 +23,8 @@
 * Supports the solar panel.
 * Allows for rotation and tilt adjustment.
 
+---
+
 ## Indicator light
 * Communicates whether the derail device is open or closed
 
