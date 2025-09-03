@@ -14,19 +14,19 @@ This manual is organized into clearly labeled sections for quick reference:
 !!! note
     If you're looking for a specific topic, refer to the Table of Contents or use the search function (for digital versions).
 
-* Safety Information – Read this first. Covers required precautions and emergency procedures.
+* **Safety Information** – Read this first. Covers required precautions and emergency procedures.
 
-* System Overview – Understand the machine's components and technical limits.
+* **System Overview** – Understand the machine's components and technical limits.
 
-* Setup – Step-by-step guidance for correct installation.
+* **Setup** – Step-by-step guidance for correct installation.
 
-* Operation – Learn how to safely use the device and interpret status lights.
+* **Operation** – Learn how to safely use the device and interpret status lights.
 
-* Maintenance – Outlines regular tasks to ensure long-term performance.
+* **Maintenance** – Outlines regular tasks to ensure long-term performance.
 
-* Troubleshooting – Helps diagnose and correct common issues.
+* **Troubleshooting** – Helps diagnose and correct common issues.
 
-* Appendices – Include wiring diagrams, part numbers, and calibration logs.
+* **Appendices** – Include wiring diagrams, part numbers, and calibration logs.
 
 ---
   
