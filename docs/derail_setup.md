@@ -49,8 +49,6 @@ Site preparation must be completed before installing the derail system.
 The derail sensor requires a level installation surface and a clear zone around the device.  
 Ensure that the following clearance dimensions are present before proceeding.
 
----  
-
 **Step 1: Measure Site Clearance**
 
 !!! warning "Clearance Warning"
@@ -63,8 +61,6 @@ Use a measuring tape to ensure that the site meets the following minimum dimensi
 * Vertical clearance: **27 in.**  
 
 * Horizontal clearance: **22 in.**  
-
----  
 
 **Step 2: Check that Site is Level** 
 
@@ -84,10 +80,9 @@ For installations in the USA, the solar panel should face **south** for optimal 
 
 * Two locations witn **1/4"-20** threaded stud patterns are provided for mounting the solar panel and light assemblies.
 
-* The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.
-
----  
-
+* The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  
+  
+  
 **Step 1: Measure Tilt Angle**
 
 The optimal tilt angle for solar panel efficiency depends on the latitude of the installation site.
@@ -98,8 +93,6 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 
 !!! example
     Latitude 38.2° → Tilt angle **38.2°**
-
----  
 
 **Step 2: Seasonal adjustments:**
 
