@@ -118,7 +118,7 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 
 
 
-### **Excavation**
+### Excavation
 
 !!! warning
     Ensure to remove additional ballast around the tie to allow access during installation
@@ -138,13 +138,13 @@ Clear space for:
 
 
 
-## **Assembly**
+## Assembly
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
 ---  
 
-### **Mounting the Controller Stand**
+### Mounting the Controller Stand
 
 ---  
 
@@ -354,7 +354,7 @@ Clear space for:
 
 ## 3.3 Sensor Installation
 
-### **For Flip-Style Derail**
+### For Flip-Style Derail
 
 !!! warning "Damage to Equipment"
     Verify sensor clearance before welding. Improper placement may cause interference with moving parts or rolling stock.
@@ -591,3 +591,5 @@ Clear space for:
 **Step 5: Support**
 
 * If the system still does not power on, stop and contact TXRX support for assistance. Do not modify wiring beyond the procedures in this manual.
+
+---
