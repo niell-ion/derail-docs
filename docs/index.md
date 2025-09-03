@@ -4,12 +4,10 @@ Welcome to the TXRX Derail Light.
 This manual is intended for machine operators, maintenance technicians, and field engineers. 
 It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
 
-### How to Use This Manual
-
----
-
 !!! warning
     This manual does not replace proper hands-on training. Only qualified personnel should operate or maintain this equipment.
+
+### How to Use This Manual
 
 This manual is organized into clearly labeled sections for quick reference:
 
@@ -31,9 +29,9 @@ This manual is organized into clearly labeled sections for quick reference:
 * Appendices – Include wiring diagrams, part numbers, and calibration logs.
 
 ---
-
-
-
+  
+  
+  
 ## Safety Information
 
 The safety instructions included at this point are general safety instructions.
