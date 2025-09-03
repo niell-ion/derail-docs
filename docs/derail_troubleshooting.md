@@ -1,8 +1,8 @@
-6.1 Mechanical Issues
+## Mechanical Issues
 * Sensor positioning issues
 * Solar panel issues
 
-6.2 Electrical Issues
+## Electrical Issues
 * Charging issues
 * Connection issues
 * Sensor issues
