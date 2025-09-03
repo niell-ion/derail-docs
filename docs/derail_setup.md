@@ -78,7 +78,7 @@ For installations in the USA, the solar panel should face **south** for optimal 
 
 * Observe the site and ensure that the solar panel will receive sun once installed.
 
-* Two locations witn **1/4"-20** threaded stud patterns are provided for mounting the solar panel and light assemblies.
+* Two locations with **1/4"-20** threaded stud patterns are provided for mounting the solar panel and light assemblies.
 
 * The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  
   
