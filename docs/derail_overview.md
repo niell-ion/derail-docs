@@ -10,6 +10,8 @@
 * Support and stabilize the controller.
 * Protect the underside of the main bracket from rock chips.
 
+---
+
 ## Solar panel
 
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
@@ -25,6 +27,8 @@
 * Communicates whether the derail device is open or closed
 
 ![Derail Solar Panel](assets/derail_stand.jpg){: style="height:350px;width:350px"}
+
+---
 
 ## Sensor
 
@@ -47,3 +51,5 @@
 ### Tubing Cover Bracket
 * Secures the liquid-tight tubing to the tie.
 * Protects the tubing from damage.
+
+---
