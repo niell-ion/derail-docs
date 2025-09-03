@@ -9,7 +9,6 @@ theme:
     - navigation.footer
 nav:
   - Home: index.md
-  - Preface: derail_preface.md
   - System Overview: derail_overview.md
   - Setup: derail_setup.md
   - Operation: derail_operation.md
