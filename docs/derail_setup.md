@@ -345,7 +345,7 @@ Clear space for:
 
 
 
-## 3.3 Sensor Installation
+## Sensor Installation
 
 ### For Flip-Style Derail
 
