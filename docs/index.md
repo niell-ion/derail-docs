@@ -1,4 +1,4 @@
-## **1.1 Introduction**
+## **Introduction**
 
 ### **How to Use This Manual**
 
@@ -30,7 +30,7 @@ This manual is organized into clearly labeled sections for quick reference:
 
 ---
 
-## **1.2 Safety Information**
+## **Safety Information**
 
 The safety instructions included at this point are general safety instructions.
 You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.
@@ -84,7 +84,7 @@ If there is any uncertainty regarding safe operation, contact the manufacturer o
 
 ---
 
-## **1.3 Tools and Equipment**
+## **Tools and Equipment**
 
 * Measuring Tape
 
