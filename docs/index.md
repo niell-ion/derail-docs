@@ -1,10 +1,10 @@
-## **Introduction**
+## Introduction
 
 Welcome to the TXRX Derail Light. 
 This manual is intended for machine operators, maintenance technicians, and field engineers. 
 It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
 
-### **How to Use This Manual**
+### How to Use This Manual
 
 ---
 
@@ -34,7 +34,7 @@ This manual is organized into clearly labeled sections for quick reference:
 
 
 
-## **Safety Information**
+## Safety Information
 
 The safety instructions included at this point are general safety instructions.
 You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.
@@ -50,7 +50,7 @@ You will find particular safety instructions at the beginning of each chapter or
 
 ---
 
-### **Safety Warning**
+### Safety Warning
 
 <span style="color:red;">IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING</span></span>
 
@@ -70,7 +70,7 @@ Failure to comply with the instructions and safety precautions in this manual ca
 
 
 
-### **Safety Disclaimer**
+### Safety Disclaimer
 
 !!! warning "Equip Proper PPE"
     ANSI-rated Personal Protective Equipment (PPE) must be worn at all times, including safety glasses, gloves, hard hat, and protective footwear.
@@ -90,7 +90,7 @@ If there is any uncertainty regarding safe operation, contact the manufacturer o
 
 ---
 
-## **Tools and Equipment**
+## Tools and Equipment
 
 * Measuring Tape
 
