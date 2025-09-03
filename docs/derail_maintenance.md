@@ -8,3 +8,5 @@
 
 * Test battery voltage to ensure proper charging
 * Observe that solar panel connections are tight and secure
+
+---
