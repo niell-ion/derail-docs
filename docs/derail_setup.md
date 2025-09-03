@@ -361,37 +361,33 @@ Clear space for:
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
-**Step 1:**
+**Step 1: Locate Bracket**
 
-* Locate the sensor mounting bracket on the side of the derail.
+* Place the sensor mounting bracket on the side of the derail.
 
 ---  
 
-**Step 2:**
+**Step 2: Check Clearance**
 
 * Move the derail arm from side to side, through its full range of motion. Confirm the sensor and bracket are clear of all moving parts.
-
----  
-
-**Step 3:**
 
 * Verify that the sensor will remain clear of train wheels in both engaged and disengaged positions.
 
 ---  
 
-**Step 4:**
+**Step 3: Prepare Metal**
 
 * Grind paint off the mating face of the sensor bracket to ensure a proper weld.
 
 ---  
 
-**Step 5:**
+**Step 4: Mount Sensor Block**
 
 * Mount the sensor to the bracket using the provided screws. Tighten securely.
 
 ---  
 
-**Step 6:**
+**Step 5: Check Positioning**
 
 * Confirm that:
 
@@ -403,7 +399,7 @@ Clear space for:
 
 ---  
 
-**Step 7:**
+**Step 6: Weld Bracket**
 
 * Weld the sensor and bracket assembly to the derail as shown in the installation drawing.
 
@@ -418,23 +414,23 @@ Clear space for:
 
 ---  
 
-**Step 1:**  
+**Step 1: Locate Bracket**  
 
-* Locate the sensor bracket on the provided stand.
+* Place the sensor bracket on the provided stand.
 
 ---  
 
-**Step 2:**  
+**Step 2: Install Hardware**  
 
 * Verify that the sensor block is secured to the sensor bracket and that the liquid-tight tubing nut is fully tightened to the sensor.
 
 * Add the **#10-32 x 3/4"** screws, **#10** flat washers, and **#10-32** nuts.
 
-* Tighten hardware until the sensor doesn't move
+* Tighten hardware until the sensor doesn't move.
 
 ---  
 
-**Step 3:**  
+**Step 3: Check Positioning**  
 
 * Verify alignment of the bracket before proceeding.
 
