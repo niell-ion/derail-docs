@@ -78,7 +78,7 @@ From the edge of the rail to a point **42 in.** straight back, the elevation mus
 ### **Solar Panel**
 
 For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
-For installations in the northern hemisphere, the solar panel should face **south** for optimal efficiency.
+For installations in the USA, the solar panel should face **south** for optimal efficiency.
 
 * Observe the site and ensure that the solar panel will receive sun once installed.
 
