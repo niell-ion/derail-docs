@@ -1,4 +1,4 @@
-## **3.1 Preparation**
+## **Preparation**
 
 !!! warning "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation. 
@@ -138,7 +138,7 @@ Clear space for:
 
 
 
-## **3.2 Assembly**
+## **Assembly**
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
@@ -535,7 +535,7 @@ Clear space for:
 
 
 
-## **3.4 Turning on the System**
+## **Turning on the System**
 
 ![Derail Charger Connected](assets/solar_control.jpg){: style="height:350px;width:350px"}
 
