@@ -45,5 +45,3 @@ This section lists common **mechanical** and **electrical** issues that may occu
 
 * If the issue persists after following these checks, contact **TXRX Technical Support** with your system serial number and maintenance log.  
 * See [Maintenance](../docs/derail_maintenance.md) for preventive care guidelines.  
-
----
