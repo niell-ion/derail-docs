@@ -19,13 +19,13 @@ Perform these checks **every 6–12 months**, or after severe weather events:
     Always disconnect the battery before tightening or servicing electrical connections. Use insulated tools and protective eyewear.
 
 **Step 1: Measure the Battery Voltage with a Digital Multimeter**  
-* Typical operating range: **12.0–14.4 VDC**.
-* Recharge or replace the battery if readings fall below the recommended range.
+* Typical operating range: **12.0–14.4 VDC**.  
+* Recharge or replace the battery if readings fall below the recommended range.  
 
 **Step 2: Inspect the Solar Panel Connections**  
-* Ensure all terminals are tight and corrosion-free.
+* Ensure all terminals are tight and corrosion-free.  
 * Clean terminals with a dry brush if necessary.  
-* Confirm wiring polarity matches system labels (**+ / –**).
+* Confirm wiring polarity matches system labels (**+ / –**).  
 
 **Step 3: Visually Inspect the Solar Panel Surface for Dirt, Shading, or Damage**  
 * Clean with mild soap and water if necessary.  
