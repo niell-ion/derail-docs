@@ -1,6 +1,6 @@
 ## Routine Maintenance
 
-Perform these checks **monthly**:
+**Monthly Maintenance:**  
 
 1. Verify that the sensor is properly aligned in its mounting position.  
 2. Confirm that the sensor bracket is securely attached and free of movement.  
