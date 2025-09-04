@@ -38,13 +38,14 @@ The safety instructions included at this point are general safety instructions.
 You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.
 
 !!! warning
-    Safety instructions are emphasized by a brightly shaded triangle and block quotes
+    Safety instructions are emphasized by a brightly shaded triangle and block quotes.  
+    Be sure to read all safety instructions before proceeding.
  
-* Observing all safety instructions will help you to avoid accidents and to prevent damage to the RAR
+* Observing all safety instructions will help you to avoid accidents and prevent damage to equipment.
  
-* Always comply with the safety instructions, even in scenarios where you are under time pressure
+* Always comply with the safety instructions, even in scenarios where you are under time pressure.
 
-* Once accidents happen, they cannot be undone
+* Once accidents happen, they cannot be undone.
 
 ---
 
@@ -66,8 +67,6 @@ Failure to comply with the instructions and safety precautions in this manual ca
 
 ---
 
-
-
 ### Safety Disclaimer
 
 !!! warning "Equip Proper PPE"
@@ -87,6 +86,8 @@ By operating this equipment, the user agrees to accept all responsibility for it
 If there is any uncertainty regarding safe operation, contact the manufacturer or a qualified supervisor before proceeding.
 
 ---
+
+
 
 ## Tools and Equipment
 
