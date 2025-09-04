@@ -2,12 +2,12 @@
 
 Perform these checks **monthly**:
 
+!!! tip
+    Wipe dust or debris from the sensor face using a clean, dry cloth. Do **not** use solvents or abrasive materials.
+
 1. Verify that the **sensor is properly aligned** in its mounting position.  
 2. Confirm that the **sensor bracket** is securely attached and free of movement.  
 3. Inspect the sensor cable for any signs of wear, abrasion, or loose connections.  
-
-!!! tip
-    Wipe dust or debris from the sensor face using a clean, dry cloth. Do **not** use solvents or abrasive materials.
 
 ---
 
