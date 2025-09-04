@@ -38,5 +38,3 @@ After maintenance:
   * Ensure the system powers on normally.  
   * Confirm that status LEDs on the controller and sensor indicate proper operation.  
   * Record maintenance actions in your service log.  
-
----
