@@ -41,8 +41,10 @@
 * May be cut to size if necessary, welding required for installation.
 
 ### Mounting Bracket, Swing-Style
-* Bracket supplied by Marmon.
 * For installations on swing-style derail devices.
+
+### Sensor Riser
+* Supplied by Marmon for use with swing-style derail devices.
 
 ### Sensor Module
 * Monitors the opening and closing of the derail by detecting the presence of the metal plate.
