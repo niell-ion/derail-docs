@@ -2,8 +2,8 @@
 
 Perform these checks **monthly**:
 
-1. Verify that the **sensor is properly aligned** in its mounting position.  
-2. Confirm that the **sensor bracket** is securely attached and free of movement.  
+1. Verify that the sensor is properly aligned in its mounting position.  
+2. Confirm that the sensor bracket is securely attached and free of movement.  
 3. Inspect the sensor cable for any signs of wear, abrasion, or loose connections.  
 
 !!! tip
