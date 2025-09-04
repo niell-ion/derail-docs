@@ -569,5 +569,3 @@ Clear space for:
 **Step 5: Support**
 
 * If the system still does not power on, stop and contact TXRX support for assistance. Do not modify wiring beyond the procedures in this manual.
-
----
