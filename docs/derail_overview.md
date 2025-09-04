@@ -1,8 +1,8 @@
-## Controller Stand
+## Controller Assembly
 
 ![Controller](assets/derail_housing.jpg){: style="height:350px;width:350px"}
 
-### Main Bracket
+### Controller Stand
 * Electronics enclosure is pre-installed to controller bracket.
 * Includes two sets of mounting studs for the solar panel and light assembly.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Solar Panel
+## Solar Panel Assembly
 
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
 
@@ -25,14 +25,14 @@
 
 ---
 
-## Indicator Light
+## Light Assembly
 * Communicates whether the derail device is open or closed
 
 ![Derail Solar Panel](assets/derail_stand.jpg){: style="height:350px;width:350px"}
 
 ---
 
-## Sensor
+## Sensor Assembly
 
 ![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
 
