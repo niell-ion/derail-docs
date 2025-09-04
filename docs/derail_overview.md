@@ -12,11 +12,11 @@
 
 ---
 
-## Solar panel
+## Solar Panel
 
 ![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:350px;width:350px"}
 
-### Solar Panel Spider Bracket.
+### Solar Panel Spider Bracket
 * Attaches the solar panel to the mast.
 
 ### Solar Panel Mast
@@ -25,7 +25,7 @@
 
 ---
 
-## Indicator light
+## Indicator Light
 * Communicates whether the derail device is open or closed
 
 ![Derail Solar Panel](assets/derail_stand.jpg){: style="height:350px;width:350px"}
