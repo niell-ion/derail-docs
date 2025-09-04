@@ -34,7 +34,7 @@ This section lists common **mechanical** and **electrical** issues that may occu
 
 * Ensure all screw terminals are fully tightened (see [Terminal Wiring](../wiring/terminals.md)).  
 * Check for corrosion on connectors; clean with a dry brush if necessary.  
-* Verify correct polarity (**+ to +, – to –**).  
+* Verify correct polarity (**+** to **+**, **–** to **–**).  
 
 **3. Sensor issues**  
 
