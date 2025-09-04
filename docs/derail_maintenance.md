@@ -34,7 +34,7 @@ Perform these checks **every 6–12 months**, or after severe weather events:
 
 ## Verification
 
-After maintenance:
-  * Ensure the system powers on normally.  
-  * Confirm that status LEDs on the controller and sensor indicate proper operation.  
-  * Record maintenance actions in your service log.  
+**After maintenance:**  
+* Ensure the system powers on normally.  
+* Confirm that status LEDs on the controller and sensor indicate proper operation.  
+* Record maintenance actions in your service log.  
