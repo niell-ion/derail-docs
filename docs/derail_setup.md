@@ -297,7 +297,7 @@ Clear space for:
 
 * Loosen the tilt bolts, set the solar panel to the required tilt angle, and re-tighten the bolts.
 
-* Refer to the site preparation section for recommended tilt angle (latitude ± seasonal adjustment).
+* Refer to the [Site Preparation](#solar-panel) section for recommended tilt angle (latitude ± seasonal adjustment).
 
 
 
@@ -387,32 +387,32 @@ Clear space for:
 
 
 
-### For Swing-Style Derail
+### For Swing-Style Derail  
 
 !!! Note
-    Stand for swing-style derail sensor provided by Marmon
+    Stand for swing-style derail sensor provided by Marmon  
 
 
 
 **Step 1: Locate Bracket**  
 
-* Place the sensor bracket on the provided stand.
+* Place the sensor bracket on the provided stand.  
 
 
 
 **Step 2: Install Hardware**  
 
-* Verify that the sensor block is secured to the sensor bracket and that the liquid-tight tubing nut is fully tightened to the sensor.
+* Verify that the sensor block is secured to the sensor bracket and that the liquid-tight tubing nut is fully tightened to the sensor.  
 
-* Add the **#10-32 x 3/4"** screws, **#10** flat washers, and **#10-32** nuts.
+* Add the **#10-32 x 3/4"** screws, **#10** flat washers, and **#10-32** nuts.  
 
-* Tighten hardware until the sensor doesn't move.
+* Tighten hardware until the sensor doesn't move.  
 
 
 
 **Step 3: Check Positioning**  
 
-* Verify alignment of the bracket before proceeding.
+* Verify alignment of the bracket before proceeding.  
 
 
 
