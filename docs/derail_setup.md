@@ -427,7 +427,7 @@ Clear space for:
 
 * Measure the required length of tubing from the sensor to the controller enclosure.
 
-* Add at least 12 in. of slack for routing and future adjustments.
+* Add at least **12 in.** of slack for routing and future adjustments.
 
 * Cut the tubing cleanly with a utility knife or tubing cutter. Avoid jagged edges.
 
@@ -522,7 +522,7 @@ Clear space for:
 **Step 1: Battery Connection**
 
 !!! warning "Polarity Matters" 
-    Reversing battery polarity (red to – or black to +) can permanently damage the controller and board and is not covered by warranty.
+    Reversing battery polarity (red to **–** or black to **+**) can permanently damage the controller and board and is not covered by warranty.
     Use a multimeter to pre-check the battery’s voltage and polarity at the terminals before attaching any leads.
 
 
@@ -531,9 +531,9 @@ Clear space for:
 
 * Identify terminals and leads:
 
-  * Battery positive (+) terminal.
+  * Battery positive (**+**) terminal.
 
-  * System leads: red = positive (+)
+  * System leads: red = positive (**+**)
  
 
 
