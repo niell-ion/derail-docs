@@ -1,4 +1,4 @@
-## Routine Maintenance
+## Routine Maintenance  
 
 **Monthly Maintenance:**  
 
@@ -7,16 +7,16 @@
 3. Inspect the sensor cable for any signs of wear, abrasion, or loose connections.  
 
 !!! tip
-    Wipe dust or debris from the sensor face using a clean, dry cloth. Do **not** use solvents or abrasive materials.
+    Wipe dust or debris from the sensor face using a clean, dry cloth. Do **not** use solvents or abrasive materials.  
 
 ---
 
 ## Occasional Maintenance
 
-Perform these checks **every 6–12 months**, or after severe weather events:
+Perform these checks **every 6–12 months**, or after severe weather events:  
 
 !!! warning "Electrical Hazard"
-    Always disconnect the battery before tightening or servicing electrical connections. Use insulated tools and protective eyewear.
+    Always disconnect the battery before tightening or servicing electrical connections. Use insulated tools and protective eyewear.  
 
 **Step 1: Measure the Battery Voltage with a Digital Multimeter**  
 
@@ -35,7 +35,7 @@ Perform these checks **every 6–12 months**, or after severe weather events:
 
 ---
 
-## Verification
+## Verification  
 
 **After Maintenance**  
 
