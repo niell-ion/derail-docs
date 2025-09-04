@@ -8,8 +8,8 @@ The Derail Light is mounted to a **Western-Cullen-Hayes (WCH) derail device**. A
     Do **not** operate the derail device without clearance from the site supervisor. Unauthorized use may result in equipment damage or personnel injury.
 
 1. Obtain clearance from the site supervisor.  
-2. Follow WCH derail device operating procedures to **engage or disengage** the derail.  
-3. Observe the **Derail Light** to confirm correct operational status.  
+2. Follow WCH derail device operating procedures to engage or disengage the derail.  
+3. Observe the **status light** to confirm correct operational status.  
 
 !!! tip
     Always visually confirm the derail position in addition to checking the status light.
