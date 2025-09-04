@@ -57,13 +57,13 @@ This equipment is intended only for use by trained and authorized personnel. All
 
 Failure to comply with the instructions and safety precautions in this manual can result in serious injury, equipment damage, or death.
 
-* Always follow lockout/tagout procedures before performing maintenance
+* Always follow lockout/tagout procedures before performing maintenance.
 
-* Disconnect power supply before servicing
+* Disconnect power supply before servicing.
 
-* Do not bypass, disable, or modify any safety features
+* Do not bypass, disable, or modify any safety features.
 
-* Use only manufacturer-approved accessories and replacement parts
+* Use only manufacturer-approved accessories and replacement parts.
 
 ---
 
@@ -74,13 +74,13 @@ Failure to comply with the instructions and safety precautions in this manual ca
 
 The manufacturer assumes no liability for damage or injury resulting from:
 
-* Improper installation or operation
+* Improper installation or operation.
 
-* Unauthorized modifications
+* Unauthorized modifications.
 
-* Use outside of intended application
+* Use outside of intended application.
 
-* Neglect of routine maintenance
+* Neglect of routine maintenance.
 
 By operating this equipment, the user agrees to accept all responsibility for its safe use. 
 If there is any uncertainty regarding safe operation, contact the manufacturer or a qualified supervisor before proceeding.
