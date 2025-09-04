@@ -316,7 +316,7 @@ Clear space for:
 
 ![Derail Sensor](assets/derail_terminals.jpg){: style="height:350px;width:350px"}
 
-* Connect the solar panel positive (+) and negative (–) leads to the Solar Panel + and Solar Panel – terminals on the controller board, as shown in the wiring diagram.
+* Connect the solar panel positive (**+**, red wire) and negative (**–**, black wire) leads to the Solar Panel **+** and Solar Panel **–** terminals on the controller board, as shown in the wiring diagram.
 
 * Tighten terminal screws securely.
 
