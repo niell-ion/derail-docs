@@ -19,6 +19,7 @@ plugins:
   - to-pdf:
       output_path: document.pdf
       # enabled_if_env: ENABLE_PDF_EXPORT
+copyright: Copyright &copy; 2025 Transmit Receive Labs Inc.
 markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
