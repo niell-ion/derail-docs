@@ -7,6 +7,7 @@ theme:
     accent: blue
   features:
     - navigation.footer
+company: Transmit Receive Labs Inc.
 nav:
   - Home: index.md
   - System Overview: derail_overview.md
