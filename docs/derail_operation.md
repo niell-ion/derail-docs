@@ -20,7 +20,7 @@ The derail light is mounted to a Western-Cullen-Hayes (WCH) derail device. Alway
 
 ![Derail Light](assets/derail_stand.jpg){: style="height:350px;width:350px"}  
 
-The **derail light** provides a clear visual indication of derail status:  
+The derail light provides a clear visual indication of derail status:  
 
 - **Blinking Blue** → The derail device is **engaged** (track blocked).  
 - **Light Off** → The derail device is **disengaged** (track clear).  
