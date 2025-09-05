@@ -20,6 +20,11 @@ plugins:
       output_path: document.pdf
       # enabled_if_env: ENABLE_PDF_EXPORT
 markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid-experimental
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - admonition:
   - pymdownx.details:
   - pymdownx.superfences:
