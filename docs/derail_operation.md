@@ -1,4 +1,4 @@
-The derail light is mounted to a **Western-Cullen-Hayes (WCH) derail device**. Always follow WCH’s official documentation for derail device operation. This section explains how the integrated **derail light** indicates system status.
+The derail light is mounted to a Western-Cullen-Hayes (WCH) derail device. Always follow WCH’s official documentation for derail device operation. This section explains how the integrated derail light indicates system status.
 
 ---
 
@@ -9,7 +9,7 @@ The derail light is mounted to a **Western-Cullen-Hayes (WCH) derail device**. A
 
 1. Obtain clearance from the site supervisor.  
 2. Follow WCH derail device operating procedures to engage or disengage the derail.  
-3. Observe the **status light** to confirm correct operational status.  
+3. Observe the status light to confirm correct operational status.  
 
 !!! tip
     Always visually confirm the derail position in addition to checking the status light.
