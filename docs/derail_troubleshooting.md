@@ -32,7 +32,7 @@ This section lists common **mechanical** and **electrical** issues that may occu
 
 **2. Connection issues**  
 
-* Ensure all screw terminals are fully tightened (see [Terminal Wiring](../wiring/terminals.md)).  
+* Ensure all screw terminals are fully tightened (see [Terminal Wiring](derail_setup.md#turning-on-the-system)).  
 * Check for corrosion on connectors; clean with a dry brush if necessary.  
 * Verify correct polarity (**+** to **+**, **–** to **–**).  
 
