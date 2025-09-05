@@ -51,7 +51,7 @@ You will find particular safety instructions at the beginning of each chapter or
 
 ### Safety Warning
 
-<span style="color:red;">IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING</span></span>
+<span style="color:red;">**IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING**</span></span>
 
 This equipment is intended only for use by trained and authorized personnel. All users must read, understand, and follow the instructions in this manual before installing, operating, or servicing the equipment.
 
