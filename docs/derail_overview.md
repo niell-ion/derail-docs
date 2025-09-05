@@ -55,5 +55,3 @@
 ### Tubing Cover Bracket
 * Secures the liquid-tight tubing to the tie.
 * Protects the tubing from damage.
-
----
