@@ -339,7 +339,7 @@ Clear space for:
 !!! warning "Damage to Equipment"
     Verify sensor clearance before welding. Improper placement may cause interference with moving parts or rolling stock.
 
-![Derail Sensor](assets/derail_sensor.jpg){: style="height:350px;width:350px"}
+![Derail Sensor](assets/derail_diag1.jpg){: style="height:350px;width:350px"}
 
 **Step 1: Locate Bracket**
 
