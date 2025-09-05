@@ -1,4 +1,4 @@
-This section lists common **mechanical** and **electrical** issues that may occur during operation, and suggested checks and fixes.
+This section lists common mechanical and electrical issues that may occur during operation, and suggested checks and fixes.
 
 ---
 
@@ -8,11 +8,13 @@ This section lists common **mechanical** and **electrical** issues that may occu
     Clean solar panels using mild soap, water, and a soft cloth. Avoid harsh chemicals or abrasive pads.
 
 **Sensor positioning issues**  
+
 * Check that the sensor is correctly aligned with the target area.  
 * Ensure the mounting bracket is firmly attached and not vibrating.  
 * Verify that no debris or obstacles are blocking the sensor’s field of view.  
 
 **Solar panel issues**  
+
 * Inspect for dirt, dust, or shading that may reduce efficiency.  
 * Confirm the solar panel is securely mounted and angled toward the sun.  
 * Check for cracks, water damage, or loose framing hardware.  
