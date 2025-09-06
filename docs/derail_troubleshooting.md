@@ -26,9 +26,10 @@ This section lists common mechanical and electrical issues that may occur during
 !!! warning "Electrical Hazard"
     Disconnect the battery before performing electrical checks. Use insulated tools and avoid shorting terminals.
 
-**1. Charging issues**  
+**Device**  
 
 * Measure battery voltage with a digital multimeter.
+* Confirm that the solar panel output is within expected range (typically **12.0-14.4 VDC**).  
 * Confirm that the solar panel output is within expected range (typically **17–21 V**).  
 * Inspect fuses and replace if blown.  
 
