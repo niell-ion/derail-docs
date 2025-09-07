@@ -455,6 +455,8 @@ Clear space for:
 
 **Step 4: Route Tubing to Controller Enclosure**
 
+* Route tubing through cutout on enclosure side of controller stand.
+
 * Position tubing along a straight, supported path wherever possible.
 
 * Ensure tubing will not interfere with derail movement or be crushed by ballast.
@@ -497,7 +499,7 @@ Clear space for:
 
 * Straighten the tubing path and confirm it is free of kinks.
 
-* Bolt the liquid-tight tubing cover plate perpendicular to the rail as shown in the installation drawing.
+* Bolt the liquid-tight tubing cover plate to the tie, perpendicular to the rail as shown in the installation drawing.
 
 * Cover tubing with ballast to shield from UV, impact, and debris.
 
