@@ -314,7 +314,7 @@ Clear space for:
 !!! warning
     Only connect the solar panel wires. Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
 
-![Derail Sensor](assets/derail_terminals.jpg){: style="height:350px;width:350px"}
+![Derail Sensor](assets/derail_terminals(1).jpg){: style="height:350px;width:350px"}
 
 * Connect the solar panel positive (**+**, red wire) and negative (**–**, black wire) leads to the Solar Panel **+** and Solar Panel **–** terminals on the controller board, as shown in the wiring diagram.
 
