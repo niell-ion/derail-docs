@@ -198,7 +198,7 @@ Clear space for:
 
 **Step 1: Locate the Light**
 
-![Derail Solar Panel](assets/derail_light_studs.jpg){: style="height:280px;width:auto"}
+![Derail Solar Panel](assets/derail_light_studs.jpg){: style="height:400px;width:auto"}
 
 * Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.
 
