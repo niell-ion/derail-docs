@@ -8,9 +8,9 @@ Attempting installation without the specified tools may result in improper assem
 Before beginning installation, confirm that all required tools and components are available.  
 Site preparation must be completed before installing the derail system.  
 
+---
 
-
-### Tools and Equipment
+## Tools and Equipment
 
 * Measuring Tape
 
@@ -36,9 +36,9 @@ Site preparation must be completed before installing the derail system.
 
 * Personal Protective Equipment (PPE): As required
 
+---
 
-
-### Clear Zone
+## Clear Zone
 
 The derail sensor requires a level installation surface and a clear zone around the device.  
 Ensure that the following clearance dimensions are present before proceeding.
@@ -56,7 +56,7 @@ Use a measuring tape to ensure that the site meets the following minimum dimensi
 
 * Horizontal clearance: **22 in.**
 
-![Clearance dimensions](assets/derail_clearance.svg){: style="height:320px;width:auto"}
+![Clearance dimensions](assets/derail_clearance.svg){: style="height:280px;width:auto"}
 *Minimum required clearance dimensions.*
 
 **Step 2: Check that Site is Level** 
@@ -64,10 +64,12 @@ Use a measuring tape to ensure that the site meets the following minimum dimensi
 Use a level to measure the elevation of the ground from front to back.  
 From the edge of the rail to a point **42 in.** straight back, the elevation must be level **±6 in.**
 
-![Checking levelness](assets/level_check.jpg){: style="height:250px;width:auto"}  
+![Checking levelness](assets/level_check.jpg){: style="height:280px;width:auto"}  
 *Use a bubble or digital level to confirm grade.*
 
-### Solar Panel
+---
+
+## Solar Panel
 
 For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
 For installations in the USA, the solar panel should face **south** for optimal efficiency.
@@ -78,7 +80,8 @@ For installations in the USA, the solar panel should face **south** for optimal 
 
 * The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  
 
-
+![Solar panel placement](assets/solar_orientation.jpg){: style="height:300px;width:auto"}  
+*Correct solar panel orientation and placement.*
 
 **Step 1: Measure Tilt Angle**
 
@@ -90,8 +93,6 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 
 !!! example
     Latitude 38.2° → Tilt angle **38.2°**
-
-
 
 **Step 2: Seasonal adjustments:**
 
@@ -106,9 +107,12 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
     Winter tilt angle = 38.2 + 15 = **53.2°**  
     Summer tilt angle = 38.2 – 15 = **23.2°**  
 
+![Solar panel tilt by season](assets/solar_tilt_chart.png){: style="height:300px;width:auto"}  
+*Recommended tilt angles by season.*
 
+---
 
-### Excavation
+## Excavation
 
 !!! warning
     Ensure to remove additional ballast around the tie to allow access during installation
@@ -124,17 +128,12 @@ Clear space for:
 
 ---
 
-
-
 ## Assembly
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:280px;width:auto"}
 
 
-
 ### Mounting the Controller Stand
-
-
 
 **Step 1. Position the Controller Stand Bracket**
 
