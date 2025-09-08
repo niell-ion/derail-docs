@@ -16,7 +16,7 @@ nav:
   - Maintenance: derail_maintenance.md
   - Troubleshooting: derail_troubleshooting.md
 plugins:
-  - mkdocs-caption:
+  - caption:
   - to-pdf:
       output_path: document.pdf
       # enabled_if_env: ENABLE_PDF_EXPORT
