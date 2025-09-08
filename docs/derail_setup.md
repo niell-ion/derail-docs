@@ -1,9 +1,9 @@
 ## Preparation
 
 !!! warning "Disclaimer"
-    Always ensure you have the correct tools and training before beginning installation. 
+    Always ensure you have the correct tools and training before beginning installation.  
 
-Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.
+Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.  
 
 Before beginning installation, confirm that all required tools and components are available.  
 Site preparation must be completed before installing the derail system.  
@@ -56,14 +56,14 @@ Use a measuring tape to ensure that the site meets the following minimum dimensi
 
 * Horizontal clearance: **22 in.**
 
-![Minimum required clearance dimensions.](assets/derail_clearance.svg){: style="height:400px;width:auto"}  
+![Minimum required clearance dimensions.](assets/derail_clearance.svg){: style="height:400px;width:auto"}
 
 **Step 2: Check that Site is Level** 
 
 Use a level to measure the elevation of the ground from front to back.  
 From the edge of the rail to a point **42 in.** straight back, the elevation must be level **±6 in.**
 
-![Use a bubble or digital level to confirm grade.](assets/level_check.jpg){: style="height:400px;width:auto"}  
+![Use a bubble or digital level to confirm grade.](assets/level_check.jpg){: style="height:400px;width:auto"}
 
 ---
 
@@ -79,7 +79,7 @@ For installations north of the Equator, the solar panel should face **south** fo
 
 * The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  
 
-![Correct solar panel orientation and placement.](assets/solar_orientation.jpg){: style="height:400px;width:auto"}  
+![Correct solar panel orientation and placement.](assets/solar_orientation.jpg){: style="height:400px;width:auto"}
 
 **Step 1: Measure Tilt Angle**
 
@@ -105,7 +105,7 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
     Winter tilt angle = 38.2 + 15 = **53.2°**  
     Summer tilt angle = 38.2 – 15 = **23.2°**  
 
-![Recommended tilt angles by season.](assets/solar_tilt_chart.png){: style="height:400px;width:auto"}  
+![Recommended tilt angles by season.](assets/solar_tilt_chart.png){: style="height:400px;width:auto"}
 
 ---
 
@@ -114,7 +114,7 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 !!! warning
     Ensure to remove additional ballast around the tie to allow access during installation
 
-![Derail Sensor](assets/derail_sensor.jpg){: style="height:400px;width:auto"}  
+![Derail Sensor](assets/derail_sensor.jpg){: style="height:400px;width:auto"}
 
 Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.  
 
@@ -127,7 +127,7 @@ Clear space for:
 
 ## Assembly
 
-![A correctly installed controller stand.](assets/derail_housing.jpg){: style="height:400px;width:auto"}  
+![A correctly installed controller stand.](assets/derail_housing.jpg){: style="height:400px;width:auto"}
 
 ### Mounting the Controller Stand
 
@@ -193,7 +193,7 @@ Clear space for:
 
 **Step 1: Locate the Light**
 
-![Light base positioned on studs.](assets/derail_light_studs.jpg){: style="height:400px;width:auto"}  
+![Light base positioned on studs.](assets/derail_light_studs.jpg){: style="height:400px;width:auto"}
 
 * Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.
 
@@ -227,7 +227,7 @@ Clear space for:
 
 **Step 5: Connect the Light Wires**
 
-![Solar panel terminal connections.](assets/derail_light_wire.jpg){: style="height:400px;width:auto"}  
+![Solar panel terminal connections.](assets/derail_light_wire.jpg){: style="height:400px;width:auto"}
 
 * Insert the light wires into the **OUT 0** terminals on the controller board, following the wiring diagram.
 
@@ -516,7 +516,7 @@ Clear space for:
 
 ## Turning on the System
 
-![Derail Charger Connected](assets/solar_control.jpg){:: style="height:400px;width:auto"}
+![Derail Charger Connected](assets/solar_control.jpg){: style="height:400px;width:auto"}
 
 
 
