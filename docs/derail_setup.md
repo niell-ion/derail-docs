@@ -64,8 +64,7 @@ Use a measuring tape to ensure that the site meets the following minimum dimensi
 Use a level to measure the elevation of the ground from front to back.  
 From the edge of the rail to a point **42 in.** straight back, the elevation must be level **±6 in.**
 
-![Checking levelness](assets/level_check.jpg){: style="height:400px;width:auto"}  
-*Use a bubble or digital level to confirm grade.*
+![Use a bubble or digital level to confirm grade.](assets/level_check.jpg){: style="height:400px;width:auto"}  
 
 ---
 
@@ -81,8 +80,7 @@ For installations north of the Equator, the solar panel should face **south** fo
 
 * The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  
 
-![Solar panel placement](assets/solar_orientation.jpg){: style="height:400px;width:auto"}  
-*Correct solar panel orientation and placement.*
+![Correct solar panel orientation and placement.](assets/solar_orientation.jpg){: style="height:400px;width:auto"}  
 
 **Step 1: Measure Tilt Angle**
 
@@ -108,8 +106,7 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
     Winter tilt angle = 38.2 + 15 = **53.2°**  
     Summer tilt angle = 38.2 – 15 = **23.2°**  
 
-![Solar panel tilt by season](assets/solar_tilt_chart.png){: style="height:400px;width:auto"}  
-*Recommended tilt angles by season.*
+![Recommended tilt angles by season.](assets/solar_tilt_chart.png){: style="height:400px;width:auto"}  
 
 ---
 
@@ -132,7 +129,6 @@ Clear space for:
 ## Assembly
 
 ![Derail Sensor](assets/derail_housing.jpg){: style="height:400px;width:auto"}
-
 
 ### Mounting the Controller Stand
 
@@ -198,7 +194,7 @@ Clear space for:
 
 **Step 1: Locate the Light**
 
-![Derail Solar Panel](assets/derail_light_studs.jpg){: style="height:400px;width:auto"}
+![Light base positioned on studs.](assets/derail_light_studs.jpg){: style="height:400px;width:auto"}
 
 * Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.
 
