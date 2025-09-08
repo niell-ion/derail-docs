@@ -54,14 +54,18 @@ Use a measuring tape to ensure that the site meets the following minimum dimensi
 
 * Vertical clearance: **27 in.**  
 
-* Horizontal clearance: **22 in.**  
+* Horizontal clearance: **22 in.**
+
+![Clearance dimensions](assets/derail_clearance.svg){: style="height:320px;width:auto"}
+*Minimum required clearance dimensions.*
 
 **Step 2: Check that Site is Level** 
 
 Use a level to measure the elevation of the ground from front to back.  
 From the edge of the rail to a point **42 in.** straight back, the elevation must be level **±6 in.**
 
-
+![Checking levelness](assets/level_check.jpg){: style="height:250px;width:auto"}  
+*Use a bubble or digital level to confirm grade.*
 
 ### Solar Panel
 
