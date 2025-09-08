@@ -56,8 +56,7 @@ Use a measuring tape to ensure that the site meets the following minimum dimensi
 
 * Horizontal clearance: **22 in.**
 
-![Clearance dimensions](assets/derail_clearance.svg){: style="height:400px;width:auto"}
-*Minimum required clearance dimensions.*
+![Minimum required clearance dimensions.](assets/derail_clearance.svg){: style="height:400px;width:auto"}  
 
 **Step 2: Check that Site is Level** 
 
@@ -115,7 +114,7 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 !!! warning
     Ensure to remove additional ballast around the tie to allow access during installation
 
-![Derail Sensor](assets/derail_sensor.jpg){: style="height:400px;width:auto"}
+![Derail Sensor](assets/derail_sensor.jpg){: style="height:400px;width:auto"}  
 
 Use a ballast pick or pickaxe to remove ballast under the rail and around the ties.  
 
@@ -128,7 +127,7 @@ Clear space for:
 
 ## Assembly
 
-![Derail Sensor](assets/derail_housing.jpg){: style="height:400px;width:auto"}
+![A correctly installed controller stand.](assets/derail_housing.jpg){: style="height:400px;width:auto"}  
 
 ### Mounting the Controller Stand
 
@@ -194,7 +193,7 @@ Clear space for:
 
 **Step 1: Locate the Light**
 
-![Light base positioned on studs.](assets/derail_light_studs.jpg){: style="height:400px;width:auto"}
+![Light base positioned on studs.](assets/derail_light_studs.jpg){: style="height:400px;width:auto"}  
 
 * Place the slotted base of the light assembly onto the threaded stud pattern provided on the controller stand.
 
@@ -228,7 +227,7 @@ Clear space for:
 
 **Step 5: Connect the Light Wires**
 
-![Derail Solar Panel](assets/derail_light_wire.jpg){: style="height:400px;width:auto"}
+![Solar panel terminal connections.](assets/derail_light_wire.jpg){: style="height:400px;width:auto"}  
 
 * Insert the light wires into the **OUT 0** terminals on the controller board, following the wiring diagram.
 
@@ -253,7 +252,7 @@ Clear space for:
 !!! warning "Damage to Equipment"
     Do not connect the battery wire until all installation steps are complete. Failure to follow this instruction may result in equipment damage.
 
-![Derail Solar Panel](assets/solar_center.jpg){: style="height:280px;width:auto"}
+![Solar panel installed on controller stand.](assets/solar_center.jpg){: style="height:400px;width:auto"}
 
 
 
@@ -265,7 +264,7 @@ Clear space for:
 
 * Tighten screws securely, but do not overtighten.
 
-![Derail Solar Panel](assets/derail_studs.jpg){: style="height:400px;width:auto"}
+![Solar panel centered on spider bracket.](assets/derail_studs.jpg){: style="height:400px;width:auto"}
 
 
 
@@ -275,7 +274,7 @@ Clear space for:
 
 * Bolt the bracket securely in place.
 
-![Derail Solar Panel](assets/solar_adjust.jpg){: style="height:400px;width:auto"}
+![Spider bracket properly bolted to mast.](assets/solar_adjust.jpg){: style="height:400px;width:auto"}
 
 
 
@@ -339,7 +338,7 @@ Clear space for:
 !!! warning "Damage to Equipment"
     Verify sensor clearance before welding. Improper placement may cause interference with moving parts or rolling stock.
 
-![Derail Sensor](assets/derail_diag1.jpg){: style="height:400px;width:auto"}
+![Sensor installation on flip-style derail.](assets/derail_diag1.jpg){: style="height:400px;width:auto"}
 
 **Step 1: Locate Bracket**
 
@@ -431,7 +430,7 @@ Clear space for:
 
 * Cut the tubing cleanly with a utility knife or tubing cutter. Avoid jagged edges.
 
-![Sensor Bracket](assets/tubing_nut.jpg){: style="height:400px;width:auto"}
+![Tubing nut installed on swing-style derail bracket.](assets/tubing_nut.jpg){: style="height:400px;width:auto"}
 
 
 
@@ -489,7 +488,7 @@ Clear space for:
 
 * Route the sensor wire inside the enclosure neatly, avoiding sharp bends.
 
-![Derail Sensor Wire](assets/derail_sensor_wire.jpg){: style="height:400px;width:auto"}
+![Derail sensor wire properly instlled in enclosure.](assets/derail_sensor_wire.jpg){: style="height:400px;width:auto"}
 
 * Connect the wires to the IN 0 terminals on the controller board, observing polarity.
 
