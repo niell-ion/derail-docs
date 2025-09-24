@@ -323,7 +323,7 @@ Clear space for:
 
 ### Satellite Antenna Installation
 
-**1. Attach Satellite Antenna to Solar Panel**
+**Step 1: Attach Satellite Antenna to Solar Panel**
 
 ![Derail Sensor](assets/derail_align.jpg){: style="height:350px;width:350px"}
 
@@ -335,7 +335,7 @@ Clear space for:
 
 
 
-**2. Connect Satellite Antenna to Controller Enclosure**
+**Step 2: Connect Satellite Antenna to Controller Enclosure**
 
 ![Derail Sensor](assets/derail_sma.jpg){: style="height:350px;width:350px"}
 
