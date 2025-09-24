@@ -56,14 +56,10 @@ Use a measuring tape to ensure that the site meets the following minimum dimensi
 
 * Horizontal clearance: **22 in.**
 
-![Minimum required clearance dimensions.](assets/derail_clearance.svg){: style="height:400px;width:auto"}
-
 **Step 2: Check that Site is Level** 
 
 Use a level to measure the elevation of the ground from front to back.  
 From the edge of the rail to a point **42 in.** straight back, the elevation must be level **±6 in.**
-
-![Use a bubble or digital level to confirm grade.](assets/level_check.jpg){: style="height:400px;width:auto"}
 
 ---
 
@@ -512,7 +508,7 @@ Clear space for:
 
 * Route the sensor wire inside the enclosure neatly, avoiding sharp bends.
 
-![Derail sensor wire properly instlled in enclosure.](assets/derail_sensor_wire.jpg){: style="height:400px;width:auto"}
+![Derail sensor wire properly installed in enclosure.](assets/derail_sensor_wire.jpg){: style="height:400px;width:auto"}
 
 * Connect the wires to the IN 0 terminals on the controller board, observing polarity.
 
