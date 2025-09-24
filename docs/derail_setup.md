@@ -329,7 +329,31 @@ Clear space for:
 
 ---
 
+### Satellite Antenna Installation
 
+**1. Attach Satellite Antenna to Solar Panel**
+
+![Derail Sensor](assets/derail_align.jpg){: style="height:350px;width:350px"}
+
+* Orient the satellite antenna assembly with the metal bracket and plastic housing pointing upwards.
+
+* Center the satellite antenna assembly on the top rail of the solar panel, between the arms of the spider bracket.
+
+* Fasten using the provided M6 cage nuts and machine screws.
+
+
+
+**2. Connect Satellite Antenna to Controller Enclosure**
+
+![Derail Sensor](assets/derail_sma.jpg){: style="height:350px;width:350px"}
+
+* Locate the RF SMA connectors on the bottom of the controller enclosure.
+
+* Route wires neatly from satellite antenna to controller enslosure.
+
+* Hand-tighten the satellite RF connectors until fully threaded and snug.
+
+---
 
 ## Sensor Installation
 
@@ -529,6 +553,8 @@ Clear space for:
 
 
 **Step 2: Confirm Readiness** 
+
+* Taking care not to cut the wire or touch the spade terminal to any metal, cut the zip tie restraining the battery positive (+) wire.
 
 * Identify terminals and leads:
 
