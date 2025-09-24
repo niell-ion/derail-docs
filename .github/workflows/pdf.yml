@@ -20,7 +20,7 @@ jobs:
       # 3. Install dependencies
       - name: Install MkDocs and plugins
         run: |
-          pip install mkdocs mkdocs-material mkdocs-to-pdf
+          pip install mkdocs mkdocs-material mkdocs-to-pdf mkdocs-caption
 
       # 4. Build MkDocs site (PDF included)
       - name: Build MkDocs site
