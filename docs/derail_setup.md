@@ -75,8 +75,6 @@ For installations north of the Equator, the solar panel should face **south** fo
 
 * The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  
 
-![Correct solar panel orientation and placement.](assets/solar_orientation.jpg){: style="height:400px;width:auto"}
-
 **Step 1: Measure Tilt Angle**
 
 The optimal tilt angle for solar panel efficiency depends on the latitude of the installation site.
