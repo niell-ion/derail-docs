@@ -209,15 +209,7 @@ Clear space for:
 
 
 
-**Step 4: Verify Jumpers**
-
-* Confirm that the **5V** jumpers are installed on the controller board.
-
-* These must be in place for the light to operate correctly.
-
-
-
-**Step 5: Connect the Light Wires**
+**Step 4: Connect the Light Wires**
 
 ![Solar panel terminal connections.](assets/derail_light_wire.jpg){: style="height:400px;width:auto"}
 
@@ -229,7 +221,7 @@ Clear space for:
 
 
 
-**Step 6: Test the Connection**
+**Step 5: Test the Connection**
 
 * Use a multimeter to verify proper voltage at the light terminals.
 
