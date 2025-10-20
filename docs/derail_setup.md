@@ -1,4 +1,4 @@
-## Preparation
+## Safety
 
 !!! warning "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation.  
@@ -10,7 +10,7 @@ Site preparation must be completed before installing the derail system.
 
 ---
 
-### Tools and Equipment
+## Tools and Equipment
 
 * Measuring Tape
 
@@ -38,7 +38,7 @@ Site preparation must be completed before installing the derail system.
 
 ---
 
-### Site Preparation
+## Site Preparation
 
 The derail sensor requires a level installation surface and a clear zone around the device.  
 Ensure that the following clearance dimensions are present before proceeding.
