@@ -10,7 +10,7 @@ Site preparation must be completed before installing the derail system.
 
 ---
 
-## Tools and Equipment
+### Tools and Equipment
 
 * Measuring Tape
 
@@ -38,7 +38,7 @@ Site preparation must be completed before installing the derail system.
 
 ---
 
-## Clear Zone
+### Clear Zone
 
 The derail sensor requires a level installation surface and a clear zone around the device.  
 Ensure that the following clearance dimensions are present before proceeding.
@@ -63,7 +63,7 @@ From the edge of the rail to a point **42 in.** straight back, the elevation mus
 
 ---
 
-## Solar Panel
+### Solar Panel Angle
 
 For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
 
@@ -101,7 +101,7 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 
 ---
 
-## Excavation
+### Excavation
 
 !!! warning
     Ensure to remove additional ballast around the tie to allow access during installation
