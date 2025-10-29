@@ -61,7 +61,7 @@ Use a measuring tape to ensure that the site meets the following minimum dimensi
 Use a level to measure the elevation of the ground from front to back.  
 From the edge of the rail to a point **42 in.** straight back, the elevation must be level **±6 in.**
 
----
+
 
 ### Solar Panel Preparation
 
