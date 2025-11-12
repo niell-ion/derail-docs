@@ -1,0 +1,791 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Assembly and setup documentation">
+      
+      
+        <meta name="author" content="Transmit Receive Labs Inc.">
+      
+      
+        <link rel="canonical" href="https://niell-ion.github.io/derail-docs/">
+      
+      
+      
+        <link rel="next" href="derail_overview/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Derail Sensor Manual</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introduction" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Derail Sensor Manual" class="md-header__button md-logo" aria-label="Derail Sensor Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Derail Sensor Manual
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Home
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Derail Sensor Manual" class="md-nav__button md-logo" aria-label="Derail Sensor Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Derail Sensor Manual
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introduction
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Introduction">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-to-use-this-manual" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How to Use This Manual
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#safety-information" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Safety Information
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Safety Information">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#safety-warning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Safety Warning
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#safety-disclaimer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Safety Disclaimer
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tools-and-equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tools and Equipment
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="derail_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    System Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="derail_setup/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Setup
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="derail_operation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Operation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="derail_maintenance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maintenance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="derail_troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Troubleshooting
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introduction
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Introduction">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-to-use-this-manual" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How to Use This Manual
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#safety-information" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Safety Information
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Safety Information">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#safety-warning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Safety Warning
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#safety-disclaimer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Safety Disclaimer
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tools-and-equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tools and Equipment
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Home</h1>
+
+<h2 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">¶</a></h2>
+<p>Welcome to the TXRX Derail Light. 
+This manual is intended for machine operators, maintenance technicians, and field engineers. 
+It provides step-by-step instructions to safely and effectively operate and maintain this equipment.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>This manual does not replace proper hands-on training. Only qualified personnel should operate or maintain this equipment.</p>
+</div>
+<h3 id="how-to-use-this-manual">How to Use This Manual<a class="headerlink" href="#how-to-use-this-manual" title="Permanent link">¶</a></h3>
+<p>This manual is organized into clearly labeled sections for quick reference:</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If you're looking for a specific topic, refer to the Table of Contents or use the search function (for digital versions).</p>
+</div>
+<ul>
+<li>
+<p><strong>Safety Information</strong> – Read this first. Covers required precautions and emergency procedures.</p>
+</li>
+<li>
+<p><strong>System Overview</strong> – Understand the machine's components and technical limits.</p>
+</li>
+<li>
+<p><strong>Setup</strong> – Step-by-step guidance for correct installation.</p>
+</li>
+<li>
+<p><strong>Operation</strong> – Learn how to safely use the device and interpret status lights.</p>
+</li>
+<li>
+<p><strong>Maintenance</strong> – Outlines regular tasks to ensure long-term performance.</p>
+</li>
+<li>
+<p><strong>Troubleshooting</strong> – Helps diagnose and correct common issues.</p>
+</li>
+<li>
+<p><strong>Appendices</strong> – Include wiring diagrams, part numbers, and calibration logs.</p>
+</li>
+</ul>
+<hr>
+<h2 id="safety-information">Safety Information<a class="headerlink" href="#safety-information" title="Permanent link">¶</a></h2>
+<p>The safety instructions included at this point are general safety instructions.
+You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Safety instructions are emphasized by a brightly shaded triangle and block quotes.<br>
+Be sure to read all safety instructions before proceeding.</p>
+</div>
+<ul>
+<li>
+<p>Observing all safety instructions will help you to avoid accidents and prevent damage to equipment.</p>
+</li>
+<li>
+<p>Always comply with the safety instructions, even in scenarios where you are under time pressure.</p>
+</li>
+<li>
+<p>Once accidents happen, they cannot be undone.</p>
+</li>
+</ul>
+<hr>
+<h3 id="safety-warning">Safety Warning<a class="headerlink" href="#safety-warning" title="Permanent link">¶</a></h3>
+<p><span style="color:red;"><strong>IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING</strong></span></p>
+<p>This equipment is intended only for use by trained and authorized personnel. All users must read, understand, and follow the instructions in this manual before installing, operating, or servicing the equipment.</p>
+<p>Failure to comply with the instructions and safety precautions in this manual can result in serious injury, equipment damage, or death.</p>
+<ul>
+<li>
+<p>Always follow lockout/tagout procedures before performing maintenance.</p>
+</li>
+<li>
+<p>Disconnect power supply before servicing.</p>
+</li>
+<li>
+<p>Do not bypass, disable, or modify any safety features.</p>
+</li>
+<li>
+<p>Use only manufacturer-approved accessories and replacement parts.</p>
+</li>
+</ul>
+<hr>
+<h3 id="safety-disclaimer">Safety Disclaimer<a class="headerlink" href="#safety-disclaimer" title="Permanent link">¶</a></h3>
+<div class="admonition warning">
+<p class="admonition-title">Equip Proper PPE</p>
+<p>ANSI-rated Personal Protective Equipment (PPE) must be worn at all times, including safety glasses, gloves, hard hat, and protective footwear.</p>
+</div>
+<p>The manufacturer assumes no liability for damage or injury resulting from:</p>
+<ul>
+<li>
+<p>Improper installation or operation.</p>
+</li>
+<li>
+<p>Unauthorized modifications.</p>
+</li>
+<li>
+<p>Use outside of intended application.</p>
+</li>
+<li>
+<p>Neglect of routine maintenance.</p>
+</li>
+</ul>
+<p>By operating this equipment, the user agrees to accept all responsibility for its safe use. 
+If there is any uncertainty regarding safe operation, contact the manufacturer or a qualified supervisor before proceeding.</p>
+<hr>
+<h2 id="tools-and-equipment">Tools and Equipment<a class="headerlink" href="#tools-and-equipment" title="Permanent link">¶</a></h2>
+<ul>
+<li>
+<p>Measuring Tape</p>
+</li>
+<li>
+<p>Tamping Pick or Pickaxe</p>
+</li>
+<li>
+<p>Multimeter</p>
+</li>
+<li>
+<p>Metric Allen Key Set</p>
+</li>
+<li>
+<p>Adjustable Wrench x2</p>
+</li>
+<li>
+<p>1/8" Slotted Screwdriver</p>
+</li>
+<li>
+<p>Utility Knife</p>
+</li>
+<li>
+<p>Cordless Drill + Drill Bits</p>
+</li>
+<li>
+<p>Ratchet and Socket Set</p>
+</li>
+<li>
+<p>Fish Tape or Pulling Rods</p>
+</li>
+<li>
+<p>Level (Bubble or Digital)</p>
+</li>
+<li>
+<p>Personal Protective Equipment (PPE): As required</p>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+        
+          
+          <a href="derail_overview/" class="md-footer__link md-footer__link--next" aria-label="Next: System Overview">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                System Overview
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2025 Transmit Receive Labs Inc.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.footer"], "search": "assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>

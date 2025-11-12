@@ -1,0 +1,773 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Assembly and setup documentation">
+      
+      
+        <meta name="author" content="Transmit Receive Labs Inc.">
+      
+      
+        <link rel="canonical" href="https://niell-ion.github.io/derail-docs/old/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Old - Derail Sensor Manual</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#1-preface" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Derail Sensor Manual" class="md-header__button md-logo" aria-label="Derail Sensor Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Derail Sensor Manual
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Old
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Derail Sensor Manual" class="md-nav__button md-logo" aria-label="Derail Sensor Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Derail Sensor Manual
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    System Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_setup/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Setup
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_operation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Operation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_maintenance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maintenance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../derail_troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Troubleshooting
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-preface" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Preface
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Preface">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.1 Introduction
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-safety-precautions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.2 Safety Precautions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-tools-and-equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1.3 Tools and Equipment
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-system-overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. System Overview
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. System Overview">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-derail-device" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.1 Derail device
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-sensor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.2 Sensor
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-solar-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.3 Solar Panel
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#24-indicator-light" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.4 Indicator Light
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Setup
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Setup">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-derail-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3.1 Derail Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-controller-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3.2 Controller Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-solar-panel-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3.3 Solar Panel Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-turning-on-the-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3.4 Turning on the System
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-operation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Operation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4. Operation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-derail-operation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4.1 Derail Operation
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-status-light" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4.2 Status Light
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Maintenance
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Maintenance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-routine-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5.1 Routine Maintenance
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-occasional-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5.2 Occasional Maintenance
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-troubleshooting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6. Troubleshooting
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Troubleshooting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-mechanical-issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6.1 Mechanical Issues
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-electrical-issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6.2 Electrical Issues
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Old</h1>
+
+<p><figure id="_figure-1"><img alt="Derail Light" src="../assets/derail_stand.jpg"><figcaption>Figure 1: Derail Light</figcaption></figure></p>
+<h2 id="1-preface">1. <a href="derail_preface.md">Preface</a><a class="headerlink" href="#1-preface" title="Permanent link">¶</a></h2>
+<h3 id="11-introduction">1.1 <a href="derail_preface.md#11-introduction">Introduction</a><a class="headerlink" href="#11-introduction" title="Permanent link">¶</a></h3>
+<h3 id="12-safety-precautions">1.2 <a href="derail_preface.md#12-safety-precautions">Safety Precautions</a><a class="headerlink" href="#12-safety-precautions" title="Permanent link">¶</a></h3>
+<h3 id="13-tools-and-equipment">1.3 <a href="derail_preface.md#13-tools-and-equipment">Tools and Equipment</a><a class="headerlink" href="#13-tools-and-equipment" title="Permanent link">¶</a></h3>
+<hr>
+<h2 id="2-system-overview">2. <a href="../derail_overview/">System Overview</a><a class="headerlink" href="#2-system-overview" title="Permanent link">¶</a></h2>
+<h3 id="21-derail-device">2.1 <a href="../derail_overview/#21-sensor-assembly">Derail device</a><a class="headerlink" href="#21-derail-device" title="Permanent link">¶</a></h3>
+<h3 id="22-sensor">2.2 <a href="../derail_overview/#22-controller">Sensor</a><a class="headerlink" href="#22-sensor" title="Permanent link">¶</a></h3>
+<h3 id="23-solar-panel">2.3 <a href="../derail_overview/#23-solar-panel">Solar Panel</a><a class="headerlink" href="#23-solar-panel" title="Permanent link">¶</a></h3>
+<h3 id="24-indicator-light">2.4 <a href="../derail_overview/#24-indicator-light">Indicator Light</a><a class="headerlink" href="#24-indicator-light" title="Permanent link">¶</a></h3>
+<hr>
+<h2 id="3-setup">3. <a href="../derail_setup/">Setup</a><a class="headerlink" href="#3-setup" title="Permanent link">¶</a></h2>
+<h3 id="31-derail-setup">3.1 <a href="../derail_setup/#31-trailer-setup">Derail Setup</a><a class="headerlink" href="#31-derail-setup" title="Permanent link">¶</a></h3>
+<ul>
+<li>Positioning the sensor</li>
+<li>Attaching the sensor</li>
+</ul>
+<h3 id="32-controller-setup">3.2 <a href="../derail_setup/#32-assembly">Controller Setup</a><a class="headerlink" href="#32-controller-setup" title="Permanent link">¶</a></h3>
+<ul>
+<li>Mounting the controller</li>
+<li>Connecting the sensor</li>
+<li>Connecting the solar panel</li>
+<li>Connecting the light</li>
+</ul>
+<h3 id="33-solar-panel-setup">3.3 <a href="../derail_setup/#33-sensor-installation">Solar Panel Setup</a><a class="headerlink" href="#33-solar-panel-setup" title="Permanent link">¶</a></h3>
+<ul>
+<li>Positioning the solar panel</li>
+<li>Locking the solar panel</li>
+</ul>
+<h3 id="34-turning-on-the-system">3.4 <a href="../derail_setup/#34-turning-on-the-system">Turning on the System</a><a class="headerlink" href="#34-turning-on-the-system" title="Permanent link">¶</a></h3>
+<hr>
+<h2 id="4-operation">4. <a href="../derail_operation/">Operation</a><a class="headerlink" href="#4-operation" title="Permanent link">¶</a></h2>
+<h3 id="41-derail-operation">4.1 <a href="../derail_operation/#41-derail-operation">Derail Operation</a><a class="headerlink" href="#41-derail-operation" title="Permanent link">¶</a></h3>
+<h3 id="42-status-light">4.2 <a href="../derail_operation/#42-status-light">Status Light</a><a class="headerlink" href="#42-status-light" title="Permanent link">¶</a></h3>
+<ul>
+<li>Light states</li>
+</ul>
+<hr>
+<h2 id="5-maintenance">5. <a href="../derail_maintenance/">Maintenance</a><a class="headerlink" href="#5-maintenance" title="Permanent link">¶</a></h2>
+<h3 id="51-routine-maintenance">5.1 <a href="../derail_maintenance/#51-routine-maintenance">Routine Maintenance</a><a class="headerlink" href="#51-routine-maintenance" title="Permanent link">¶</a></h3>
+<h3 id="52-occasional-maintenance">5.2 <a href="derail_maaintenance.md#52-occasional-maintenance">Occasional Maintenance</a><a class="headerlink" href="#52-occasional-maintenance" title="Permanent link">¶</a></h3>
+<hr>
+<h2 id="6-troubleshooting">6. <a href="../derail_troubleshooting/">Troubleshooting</a><a class="headerlink" href="#6-troubleshooting" title="Permanent link">¶</a></h2>
+<h3 id="61-mechanical-issues">6.1 <a href="../derail_troubleshooting/#mechanical-issues">Mechanical Issues</a><a class="headerlink" href="#61-mechanical-issues" title="Permanent link">¶</a></h3>
+<ul>
+<li>Sensor positioning issues</li>
+<li>Solar panel issues</li>
+</ul>
+<h3 id="62-electrical-issues">6.2 <a href="../derail_troubleshooting/#electrical-issues">Electrical Issues</a><a class="headerlink" href="#62-electrical-issues" title="Permanent link">¶</a></h3>
+<ul>
+<li>Charging issues</li>
+<li>Connection issues</li>
+<li>Sensor issues</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2025 Transmit Receive Labs Inc.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.footer"], "search": "../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>
